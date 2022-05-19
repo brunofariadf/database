@@ -9,13 +9,6 @@
 ## Platform: windows (10.0.14393)
 ## ------------------------------------------
 
-# rscript::rscript_create("./_project/01_agency/2022-01_version/R", 
-#     name_script = "01_data-get", open_script = FALSE, set_ide = FALSE)
-
-# dir.create("./_project/01_agency/2022-01_version/R")
-
-# rscript::rscript_create("./_project/01_agency/2022-01_version/engineer", name_script = "02-data-treatment")
-
 ## --------------------------------------------------------------------------------
 ## function - date: 2022-05-15 17:42:08
 ## --------------------------------------------------------------------------------
