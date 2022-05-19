@@ -1,0 +1,27 @@
+country;Grade;Moody.s;S.P;Fitch
+countryeconomy.com;Prime;Aaa;AAA;AAA
+countryeconomy.com;High grade;Aa1;AA+;AA+
+countryeconomy.com;High grade;Aa2;AA;AA
+countryeconomy.com;High grade;Aa3;AA-;AA-
+countryeconomy.com;Upper medium grade;A1;A+;A+
+countryeconomy.com;Upper medium grade;A2;A;A
+countryeconomy.com;Upper medium grade;A3;A-;A-
+countryeconomy.com;Lower medium grade;Baa1;BBB+;BBB+
+countryeconomy.com;Lower medium grade;Baa2;BBB;BBB
+countryeconomy.com;Lower medium grade;Baa3;BBB-;BBB-
+countryeconomy.com;Non-investment grade  speculative;Ba1;BB+;BB+
+countryeconomy.com;Non-investment grade  speculative;Ba2;BB;BB
+countryeconomy.com;Non-investment grade  speculative;Ba3;BB-;BB-
+countryeconomy.com;Highly speculative;B1;B+;B+
+countryeconomy.com;Highly speculative;B2;B;B
+countryeconomy.com;Highly speculative;B3;B-;B-
+countryeconomy.com;Substantial risks;Caa1;CCC+;CCC+
+countryeconomy.com;Substantial risks;Caa2;CCC;CCC
+countryeconomy.com;Substantial risks;Caa3;CCC-;CCC-
+countryeconomy.com;Extremely speculative;Ca;CC;CC
+countryeconomy.com;Extremely speculative;;;C
+countryeconomy.com;In default with little prospect for recovery;;SD;RD
+countryeconomy.com;In default;C;D;D
+countryeconomy.com;In default;;;DD
+countryeconomy.com;In default;;;DDD
+countryeconomy.com;Not rated;WR;NR;
