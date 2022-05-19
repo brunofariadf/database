@@ -31,10 +31,6 @@ reference_i <- trimws(tolower(reference_i[[1]]))
 reference_i <- abjutils::rm_accent(reference_i)
 reference_i <- gsub("\\ ", "\\-", reference_i)
 
-# check anomalia
-rbind(identify::extract_punctuation(data.frame(x = reference_i)),
-    identify::extract_accent(data.frame(x = reference_i)))
-
 ## --------------------------------------------------------------------------------
 ## construct path - date: 2022-05-19 11:50:59
 ## --------------------------------------------------------------------------------
