@@ -15,7 +15,29 @@ The data are in the public domain and can be used without any restrictions.
 
 # Usage
 
-Test.
+- r
+``` r
+url_i <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv"
+data_i <- data.table::fread(url_i)
+head(data_i, 2)
+
+#          date country rating        agency              grade  outlook
+# 1: 2016-02-05 albania     B+ standardPoors highly speculative   stable
+# 2: 2014-10-10 albania      B standardPoors highly speculative positive
+```
+
+- python
+``` python
+from pandas import read_csv as pandas_readCSV
+
+url_i = "https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv"
+data_i = pandas_readCSV(url_i, sep = ";")
+print(data_i.head(2))
+
+#          date  country rating         agency               grade   outlook
+# 0  2016-02-05  albania     B+  standardPoors  highly speculative    stable
+# 1  2014-10-10  albania      B  standardPoors  highly speculative  positive
+```
 
 # Code of Conduct
 
