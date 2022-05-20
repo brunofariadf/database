@@ -21,16 +21,38 @@
     }
 }
 
+.get_link <- function(x) {
+    if (x == "") {
+        x
+    } else {
+        paste0("[x](", x, ")")
+    }
+}
+
 ## --------------------------------------------------------------------------------
 ## create tbl - date: 2022-05-15 17:36:08
 ## --------------------------------------------------------------------------------
 
+## ------------------------------------------
+## link
+## ------------------------------------------
+
+# agency
+agency_i <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv"
+dim_agency <- dim(data.table::fread(agency_i))
+dim_agency <- paste(dim_agency, collapse = "x")
+
+## ------------------------------------------
+## tbl
+## ------------------------------------------
+
 df_i <- data.frame(
             id = c("01"),
             dataset = c("agency"),
-            year = c("2022"),
-            csv = c(.get_color("x")),
-            sql = c(.get_color(""))
+            year = c("202205"),
+            dimension = c(dim_agency),
+            csv = c(.get_link(agency_i)),
+            sql = c(.get_link(""))
         )
 
 ## --------------------------------------------------------------------------------
