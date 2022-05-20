@@ -1,8 +1,8 @@
 ## ------------------------------------------
 ##                          Date: 2022-05-19
 ## ------------------------------------------
-## Project: 
-## Author: 
+## Project: agency
+## Author: Bruno Faria
 ## 
 ## GUI: vscode (1.67.2)
 ## Version R: 4.1.0
@@ -20,16 +20,6 @@ extract_table <- function(url, xpath) {
     data.frame(country = name_i, 
        tryCatch(rvest::html_table(filter_i)[[1]],
         error = function(i)data.frame(error = NA)))
-}
-
-# get link
-# experimental
-
-extract_link <- function(url, xpath) {
-    url_i <- httr::GET(url)
-    read_i <- xml2::read_html(url_i)
-    filter_i <- xml2::xml_find_all(read_i, xpath = xpath)
-    rvest::html_table(filter_i)
 }
 
 # format date
