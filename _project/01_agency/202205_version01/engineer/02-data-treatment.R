@@ -14,7 +14,7 @@
 ## --------------------------------------------------------------------------------
 
 # import parse_date()
-path_r <- list.files("./_project/01_agency/2022-01_version/R", full.names = TRUE)
+path_r <- list.files("./_project/01_agency/202205_version01/R", full.names = TRUE)
 path_r <- suppressWarnings(normalizePath(path_r))
 invisible(lapply(path_r, base::source))
 
@@ -22,7 +22,7 @@ invisible(lapply(path_r, base::source))
 ## import data-raw - date: 2022-05-19 12:40:30
 ## --------------------------------------------------------------------------------
 
-df_i <- as.data.frame(data.table::fread("./_project/01_agency/2022-01_version/data-raw/agencyRaw.csv"))
+df_i <- as.data.frame(data.table::fread("./_project/01_agency/202205_version01/data-raw/agencyRaw.csv"))
 
 ## --------------------------------------------------------------------------------
 ## treatment from dataset - date: 2022-05-19 12:41:42

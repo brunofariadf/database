@@ -14,7 +14,7 @@
 ## --------------------------------------------------------------------------------
 
 # get path from function and import
-path_r <- list.files("./_project/01_agency/2022-01_version/R", full.names = TRUE)
+path_r <- list.files("./_project/01_agency/202205_version01/R", full.names = TRUE)
 path_r <- suppressWarnings(normalizePath(path_r))
 invisible(lapply(path_r, base::source))
 
@@ -71,7 +71,7 @@ dim(df_i)
 
 # export
 write.csv2(df_i, row.names = FALSE,
-    file = "./_project/01_agency/2022-01_version/data-raw/agencyRaw.csv")
+    file = "./_project/01_agency/202205_version01/data-raw/agencyRaw.csv")
 
 # remove
 rm(check_i, df_i, error_i, extract_link, 
