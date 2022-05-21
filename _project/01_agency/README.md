@@ -37,6 +37,19 @@ print(data_i.head(2))
 # 1  2014-10-10  albania      B  standardPoors  highly speculative  positive
 ```
 
+- SQL
+``` sql
+> cd sqlite3/db
+> sqlite3 agency.db
+> .mode column
+> SELECT * FROM tbl_agency_rating LIMIT 2;
+
+-- date        country  rating  agency         grade               outlook
+-- ----------  -------  ------  -------------  ------------------  --------
+-- 2016-02-05  albania  B+      standardPoors  highly speculative  stable
+-- 2014-10-10  albania  B       standardPoors  highly speculative  positive
+```
+
 # Code of Conduct
 
 Please note that the project is released with a [Contributor
