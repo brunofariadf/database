@@ -38,8 +38,9 @@
 ## ------------------------------------------
 
 # agency
-agency_i <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv"
-dim_agency <- dim(data.table::fread(agency_i))
+agency_csv <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv"
+agency_sql <- "https://github.com/brunofariadf/database/raw/main/sql/agency.db"
+dim_agency <- dim(data.table::fread(agency_csv))
 dim_agency <- paste(dim_agency, collapse = "x")
 
 ## ------------------------------------------
@@ -51,8 +52,8 @@ df_i <- data.frame(
             dataset = c("agency"),
             year = c("202205"),
             dimension = c(dim_agency),
-            csv = c(.get_link(agency_i)),
-            sql = c(.get_link(""))
+            csv = c(.get_link(agency_csv)),
+            sql = c(.get_link(agency_sql))
         )
 
 ## --------------------------------------------------------------------------------
