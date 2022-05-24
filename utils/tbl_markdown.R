@@ -1,8 +1,8 @@
 ## ------------------------------------------
 ##                          Date: 2022-05-15
 ## ------------------------------------------
-## Project: 
-## Author: 
+## Project: database
+## Author: Bruno Faria
 ## 
 ## GUI: vscode (1.67.1)
 ## Version R: 4.1.0
