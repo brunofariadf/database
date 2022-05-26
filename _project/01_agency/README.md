@@ -5,7 +5,7 @@ development](https://img.shields.io/badge/status-development-blue)
 
 # Overview
 
-The agency dataset is a credit rating used by funds and investors to assess credit quality in a country. The rating agencies available are Standard & Poor's, Moody's Fitch and DBRS.
+The agency dataset is a credit rating used by funds and investors to assess credit quality in a country. The rating agencies available are Standard & Poor's, Moody's, Fitch and DBRS.
 
 However, moody's and DBRS's rating rating has a different nomenclature for each country, so it was considered the standard set on the [countryeconomy](https://countryeconomy.com/ratings) website. However, such standardization was only up to the C rating given that all agencies start to diverge from this rating down.
 
