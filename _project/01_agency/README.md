@@ -13,7 +13,7 @@ In addition, also based on the [countryeconomy](https://countryeconomy.com/ratin
 
 # Usage
 
-- r
+- R
 ``` r
 url_i <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv"
 data_i <- data.table::fread(url_i)
@@ -24,7 +24,7 @@ head(data_i, 2)
 # 2: 2014-10-10 albania      B standardPoors highly speculative positive
 ```
 
-- python
+- Python
 ``` python
 from pandas import read_csv as pandas_readCSV
 
