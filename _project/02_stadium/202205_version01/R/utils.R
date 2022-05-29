@@ -1,15 +1,13 @@
 ## ------------------------------------------
 ##                          Date: 2022-05-29
 ## ------------------------------------------
-## Project: 
-## Author: 
+## Project: stadium
+## Author: Bruno Faria
 ## 
 ## GUI: vscode (1.67.2)
 ## Version R: 4.1.0
 ## Platform: windows (10.0.14393)
 ## ------------------------------------------
-
-# rscript::rscript_create("./_project/02_stadium/202205_version01/engineer", name_script = "02-data_treatment")
 
 # extract link to access
 # not export

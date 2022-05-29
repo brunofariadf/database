@@ -1,26 +1,13 @@
 ## ------------------------------------------
 ##                          Date: 2022-05-29
 ## ------------------------------------------
-## Project: 
-## Author: 
+## Project: stadium
+## Author: Bruno Faria
 ## 
 ## GUI: vscode (1.67.2)
 ## Version R: 4.1.0
 ## Platform: windows (10.0.14393)
 ## ------------------------------------------
-
-# "http://stadiumdb.com/stadiums" |> 
-#     httr::GET() |> 
-#     xml2::read_html() |> 
-#     xml2::xml_find_all(xpath = paste0("//a[contains(@href, '", "stadiums/", "')]")) |> 
-#     xml2::xml_attr("href")
-
-# "http://stadiumdb.com/stadiums" |> 
-#     httr::GET() |> 
-#     xml2::read_html() |> 
-#     xml2::xml_find_all(xpath = paste0("//a[contains(@href, '", "stadiums/", "')]")) |> 
-#     xml2::xml_contents() |> 
-#     {function(i)Filter(function(x)!grepl(x, pattern = "<span>"), i)}()
 
 ## --------------------------------------------------------------------------------
 ## import function - date: 2022-05-29 11:45:13
