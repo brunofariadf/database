@@ -7,14 +7,14 @@ development](https://img.shields.io/badge/status-development-blue)
 
 This is a repository of dataset collected via web scraping. Below you can check the datasets collected and the format that is available.
 
-<center>
+<div align="center">
 
 | id | dataset |  year  | dimension |                                        csv                                        |                                 sql                                  |
 |:--:|:-------:|:------:|:---------:|:---------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
 | 01 | agency  | 202205 |  5157x6   | [x](https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv)  | [x](https://github.com/brunofariadf/database/raw/main/sql/agency.db) |
 | 02 | stadium | 202205 |  2188x5   | [x](https://raw.githubusercontent.com/brunofariadf/database/main/csv/stadium.csv) |                                                                      |
 
-</center>
+</div>
 
 The data are in the public domain and can be used without any restrictions.
 
