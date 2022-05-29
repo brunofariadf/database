@@ -43,17 +43,23 @@ agency_sql <- "https://github.com/brunofariadf/database/raw/main/sql/agency.db"
 dim_agency <- dim(data.table::fread(agency_csv))
 dim_agency <- paste(dim_agency, collapse = "x")
 
+# stadium
+stadium_csv <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/stadium.csv"
+stadium_sql <- ""
+dim_stadium <- dim(data.table::fread(stadium_csv))
+dim_stadium <- paste(dim_stadium, collapse = "x")
+
 ## ------------------------------------------
 ## tbl
 ## ------------------------------------------
 
 df_i <- data.frame(
-            id = c("01"),
-            dataset = c("agency"),
-            year = c("202205"),
-            dimension = c(dim_agency),
-            csv = c(.get_link(agency_csv)),
-            sql = c(.get_link(agency_sql))
+            id = c("01", "02"),
+            dataset = c("agency", "stadium"),
+            year = c("202205", "202205"),
+            dimension = c(dim_agency, dim_stadium),
+            csv = c(.get_link(agency_csv), .get_link(stadium_csv)),
+            sql = c(.get_link(agency_sql), .get_link(stadium_sql))
         )
 
 ## --------------------------------------------------------------------------------
