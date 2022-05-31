@@ -9,14 +9,14 @@
 "Australia";"Robina";"Cbus Super Stadium";"Gold Coast United";27400
 "Australia";"Gosford";"Bluetongue Stadium";"Mariners";20059
 "Australia";"Hindmarsh";"Coopers Stadium";"Adelaide United";17000
-"Australia";"Melbourne";"Melbourne Cricket Ground";"-";100024
-"Australia";"Sydney";"Accor Stadium";"-";83500
+"Australia";"Melbourne";"Melbourne Cricket Ground";NA;100024
+"Australia";"Sydney";"Accor Stadium";NA;83500
 "Australia";"Perth";"Optus Stadium";"Eagles, Dockers, Western Force";60000
 "Australia";"Perth";"Subiaco Oval";"Eagles, Dockers, Western Force";42922
-"Australia";"Canberra";"GIO Canberra Stadium";"-";25011
+"Australia";"Canberra";"GIO Canberra Stadium";NA;25011
 "Australia";"Townsville";"Queensland Country Bank Stadium";"Cowboys";25000
-"Australia";"Perth";"HBF Park";"-";20156
-"Australia";"Sydney";"SOP Athletic Centre";"-";5000
+"Australia";"Perth";"HBF Park";NA;20156
+"Australia";"Sydney";"SOP Athletic Centre";NA;5000
 "Bangladesh";"Dhaka";"Bangabandhu National Stadium";"Brothers Union, Mohammedan SC, Abahani Ltd";36000
 "Brunei";"Bandar Seri Begawan";"Stadium Negara Hassanal Bolkiah";"DPMM FC";30000
 "Brunei";"Bandar Seri Begawan";"Stadium Balapan";"Jerudong, Gunners, NBT, Majra";3000
@@ -24,17 +24,17 @@
 "Burma";"Yangon";"Bogyoke Aung San Stadium";"Manaw Mayay";40000
 "Burma";"Mandalay";"Mandalar Thiri Sports Stadium";"Yadanarbon";30589
 "Butan";"Thimphu";"Changlimithang Stadium";"Druk Pol, Druk Star, Druk United, Thimpu City";15000
-"Cambodia";"Phnom Penh";"Morodok Techo National Stadium";"-";60000
-"Cambodia";"Phnom Penh";"Phnom Penh National Stadium";"-";50000
-"Hong Kong";"Hong Kong";"Hong Kong Stadium";"-";40000
+"Cambodia";"Phnom Penh";"Morodok Techo National Stadium";NA;60000
+"Cambodia";"Phnom Penh";"Phnom Penh National Stadium";NA;50000
+"Hong Kong";"Hong Kong";"Hong Kong Stadium";NA;40000
 "India";"Kolkata";"Yuba Bharati Krirangan";"East Bengal, Mohun Bagan, Prayag United, Pailan Ar";66000
 "India";"New Delhi";"Jawaharlal Nehru Stadium (Delhi)";"Dynamos";60000
-"India";"Kozhikode";"Municipal Corporation Stadium";"-";53000
+"India";"Kozhikode";"Municipal Corporation Stadium";NA;53000
 "India";"Kochi";"Jawaharlal Nehru Stadium (Kochi)";"Chirag United";41000
-"India";"Coimbatore";"Nehru Stadium";"-";30000
-"India";"Ahmedabad";"The Arena";"-";20000
+"India";"Coimbatore";"Nehru Stadium";NA;30000
+"India";"Ahmedabad";"The Arena";NA;20000
 "India";"Bangalore";"Bangalore Football Stadium";"HAL SC";8400
-"India";"Palakkad";"Indira Gandhi Stadium";"-";5000
+"India";"Palakkad";"Indira Gandhi Stadium";NA;5000
 "India";"Mumbai";"Cooperage Football Stadium";"Mumbai FC, Mumbai City";4156
 "Indonesia";"Jakarta";"Gelora Bung Karno";"Persija Jakarta";76127
 "Indonesia";"Surabaya";"Gelora Bung Tomo";"Persebaya";50000
@@ -46,8 +46,8 @@
 "Indonesia";"Teluk Kuantan";"Kuantan Singingi Stadium";"PSPS";25000
 "Indonesia";"Palembang";"Stadion Gelora Sriwijaya";"Sriwijaya FC";23000
 "Indonesia";"samarinda";"Stadion Segiri";"Pusamania Borneo";18000
-"Indonesia";"samarinda";"Stadion Utama Palaran";"-";60000
-"Indonesia";"Jayapura";"Stadion Papua Bangkit";"-";40263
+"Indonesia";"samarinda";"Stadion Utama Palaran";NA;60000
+"Indonesia";"Jayapura";"Stadion Papua Bangkit";NA;40263
 "Indonesia";"Cibinong";"Stadion Pakansari";"Persikabo";31000
 "Indonesia";"Malang";"Stadion Gajayana";"Persema";30000
 "Indonesia";"Banyuwangi";"Stadion Diponegoro";"Persewangi";8000
@@ -55,12 +55,12 @@
 "Iran";"Tabriz";"Yadegar-e Emam Stadium";"Tractor Sazi";66833
 "Iran";"Mashhad";"Imam Reza Stadium";"Padideh";27700
 "Iran";"Ahvaz";"Foolad Arena";"Foolad";27501
-"Iraq";"Basrah";"Basrah International Stadium";"-";65000
-"Iraq";"Baghdad";"Al-Madina Stadium";"-";32000
+"Iraq";"Basrah";"Basrah International Stadium";NA;65000
+"Iraq";"Baghdad";"Al-Madina Stadium";NA;32000
 "Iraq";"Karbala";"Karbala International Stadium";"Karbala FC";30000
 "Iraq";"Najaf";"Najaf Stadium";"Al-Najaf FC";30000
 "Iraq";"Erbil";"Franso Hariri Stadium";"Erbil SC";28000
-"Japan";"Tokyo";"Japan National Stadium";"-";68000
+"Japan";"Tokyo";"Japan National Stadium";NA;68000
 "Japan";"Yokohama";"Nissan Stadium";"Marinos";72327
 "Japan";"Urawa";"Saitama Stadium";"Red Diamonds";63718
 "Japan";"Kobe";"Universiade Stadium";"Vissel";60000
@@ -106,23 +106,23 @@
 "Japan";"Osaka";"Banpaku Stadium";"Gamba";23000
 "Japan";"Sapporo";"Atsubetsu Stadium";"Consadole";20861
 "Japan";"Kyoto";"Nishikyogoku Stadium";"Sanga";20242
-"Japan";"Setagaya Ward";"Komazawa Stadium";"-";20010
+"Japan";"Setagaya Ward";"Komazawa Stadium";NA;20010
 "Japan";"Kashiwa";"Kashiwanoha Stadium";"Reysol";20000
 "Japan";"Utsunomiya";"Tochigi Green Stadium";"Tochigi";15589
 "Japan";"Nagano";"Minaminagano Stadium";"Nagano Parceiro";15491
 "Japan";"Kumagaya";"Kumagaya Sports Park Stadium";"Ardija";15392
 "Japan";"Kitakyushu";"Mikuni World Stadium";"Giravanz";15066
-"Japan";"Hakodate";"Chiyogadai Stadium";"-";15000
+"Japan";"Hakodate";"Chiyogadai Stadium";NA;15000
 "Jordan";"Amman";"King Abdullah Stadium";"Al-Wahdat, Al-Baqa'a, Al-Jazeera, Al-Yarmouk";18000
-"Jordan";"Zarqa";"Prince Mohammed Stadium";"-";17000
-"Kuwait";"Al-Ardiya";"Jaber Al-Ahmad International Stadium";"-";64000
+"Jordan";"Zarqa";"Prince Mohammed Stadium";NA;17000
+"Kuwait";"Al-Ardiya";"Jaber Al-Ahmad International Stadium";NA;64000
 "Kuwait";"Jahra";"Mubarak Alair Stadium";"Al-Jahra SC";17000
 "Kuwait";"Salmiya";"Thamir Stadium";"Al-Salmiya SC";16105
-"Laos";"Vientiane";"Laos National Stadium";"-";25000
-"Lebanon";"Beirut";"Camille Chamoun Stadium";"-";48837
+"Laos";"Vientiane";"Laos National Stadium";NA;25000
+"Lebanon";"Beirut";"Camille Chamoun Stadium";NA;48837
 "Lebanon";"Sidon";"Saida International Stadium";"Al-Ahli";22600
 "Lebanon";"Beirut";"Beirut Municipal Stadium";"Al-Ansar";18000
-"Malaysia";"Bukit Jalil";"Stadium Bukit Jalil";"-";87411
+"Malaysia";"Bukit Jalil";"Stadium Bukit Jalil";NA;87411
 "Malaysia";"Shah Alam";"Stadium Shah Alam";"Selangor";69372
 "Malaysia";"Kuantan";"Stadium Darul Makmur";"PB Pahang, Shahzan Muda";40000
 "Malaysia";"Kota Kinabalu";"Stadium Likas";"Sabah FA";35000
@@ -132,13 +132,13 @@
 "Malaysia";"Pasir Gudang";"Stadium JCorp";"Johor FC";15000
 "Malaysia";"Selayang";"Stadium MPS";"Sime Darby";10000
 "Nepal";"Kathmandu";"Dasarath Rangasala";"New Road, Ranipokhari Corner, Three Star, Tribhuva";25000
-"North Korea";"Pyongyang";"Rungrado May Day Stadium";"-";114000
+"North Korea";"Pyongyang";"Rungrado May Day Stadium";NA;114000
 "North Korea";"Pyongyang";"Kim Il-sung Stadium";"Pyongyang City";50000
 "Oman";"Sohar";"Sohar Regional Sports Complex";"Sohar Club";19000
 "Oman";"Seeb";"Seeb Stadium";"Al-Seeb SC";8000
 "Oman";"Sur";"Sur Sports Complex";"Sur SC";8000
 "Oman";"Salalah";"Al-Saada Stadium";"Dhofar, Al-Nasr";8000
-"People's Republic of China";"Beijing";"Beijing National Stadium";"-";80000
+"People's Republic of China";"Beijing";"Beijing National Stadium";NA;80000
 "People's Republic of China";"Beijing";"Workers’ Stadium";"Hyundai";66161
 "People's Republic of China";"Nanjing";"Nanjing Olympic Stadium";"Sainty";61443
 "People's Republic of China";"Dalian";"Dalian Sports Center Stadium";"Yifang";61000
@@ -150,59 +150,59 @@
 "People's Republic of China";"Shanghai";"Hongkou Stadium";"Shenhua";33060
 "People's Republic of China";"Wuhan";"Five Rings SC Stadium";"Zall";30000
 "People's Republic of China";"Guangzhou";"Yuexiushan Stadium";"Guangzhou R&F";20000
-"People's Republic of China";"Guangzhou";"Guangdong Stadium";"-";80012
-"People's Republic of China";"Hangzhou";"Hangzhou Sports Park Stadium";"-";80000
-"People's Republic of China";"Taiyuan";"Shanxi Sports Center Stadium";"-";62000
-"People's Republic of China";"Shenzhen";"Longgang Stadium";"-";60334
-"People's Republic of China";"Ordos";"Ordos Sports Center Stadium";"-";60000
-"People's Republic of China";"Nanning";"Guangxi Stadium";"-";60000
-"People's Republic of China";"Shenyang";"Shenyang Olympic Stadium";"-";60000
-"People's Republic of China";"Chengdu";"Chengdu Fenghuangshan Football Stadium";"-";60000
-"People's Republic of China";"Xi’an";"Xi'an OSC Stadium";"-";60000
-"People's Republic of China";"Jinan";"Jinan Olympic Stadium";"-";60000
-"People's Republic of China";"Tianjin";"Tianjin Olympic Stadium";"-";60000
+"People's Republic of China";"Guangzhou";"Guangdong Stadium";NA;80012
+"People's Republic of China";"Hangzhou";"Hangzhou Sports Park Stadium";NA;80000
+"People's Republic of China";"Taiyuan";"Shanxi Sports Center Stadium";NA;62000
+"People's Republic of China";"Shenzhen";"Longgang Stadium";NA;60334
+"People's Republic of China";"Ordos";"Ordos Sports Center Stadium";NA;60000
+"People's Republic of China";"Nanning";"Guangxi Stadium";NA;60000
+"People's Republic of China";"Shenyang";"Shenyang Olympic Stadium";NA;60000
+"People's Republic of China";"Chengdu";"Chengdu Fenghuangshan Football Stadium";NA;60000
+"People's Republic of China";"Xi’an";"Xi'an OSC Stadium";NA;60000
+"People's Republic of China";"Jinan";"Jinan Olympic Stadium";NA;60000
+"People's Republic of China";"Tianjin";"Tianjin Olympic Stadium";NA;60000
 "People's Republic of China";"Hefei";"Hefei Olympic Stadium";"Jiufang";60000
-"People's Republic of China";"Fuzhou";"Haixia Olympic Center Stadium";"-";59562
-"People's Republic of China";"Nanchang";"Nanchang Sports Center Stadium";"-";58000
-"People's Republic of China";"Hohhot";"Hohhot Stadium";"-";53000
+"People's Republic of China";"Fuzhou";"Haixia Olympic Center Stadium";NA;59562
+"People's Republic of China";"Nanchang";"Nanchang Sports Center Stadium";NA;58000
+"People's Republic of China";"Hohhot";"Hohhot Stadium";NA;53000
 "People's Republic of China";"Wuhan";"Wuhan Sports Center Stadium";"Zall";52672
-"People's Republic of China";"Zibo";"Zibo Sports Center Stadium";"-";45000
+"People's Republic of China";"Zibo";"Zibo Sports Center Stadium";NA;45000
 "People's Republic of China";"Jinan";"Shandong Sports Center";"Luneng Taishan";43700
-"People's Republic of China";"Haikou";"Wuyuanhe Stadium";"-";41506
-"People's Republic of China";"Suzhou";"Suzhou OSC Stadium";"-";40933
-"People's Republic of China";"Shenzhen";"Bao’an Stadium";"-";40050
-"People's Republic of China";"Huizhou";"Huizhou Sports Center Stadium";"-";40000
+"People's Republic of China";"Haikou";"Wuyuanhe Stadium";NA;41506
+"People's Republic of China";"Suzhou";"Suzhou OSC Stadium";NA;40933
+"People's Republic of China";"Shenzhen";"Bao’an Stadium";NA;40050
+"People's Republic of China";"Huizhou";"Huizhou Sports Center Stadium";NA;40000
 "People's Republic of China";"Shaoxing";"Shaoxing Stadium";"Zhejiang Yiteng";40000
-"People's Republic of China";"Yinchuan";"Helan Shan Stadium";"-";39872
-"People's Republic of China";"Zhanjiang";"Zhanjiang Olympic Center Stadium";"-";39769
-"People's Republic of China";"Yancheng";"Yancheng SC Stadium";"-";37003
-"People's Republic of China";"Foshan";"Century Lotus Stadium";"-";36000
-"People's Republic of China";"Panjin";"Red Beach Stadium";"-";35600
-"People's Republic of China";"Ordos";"Ordos Dongsheng Stadium";"-";35107
-"People's Republic of China";"Qinhuangdao";"Qinhuangdao Olympic Stadium";"-";33572
-"People's Republic of China";"Daqing";"Daqing Olympic Park Stadium";"-";32031
-"People's Republic of China";"Jiangyin";"Jiangyin Sports Centre Stadium";"-";31888
-"People's Republic of China";"Datong";"Datong SC Stadium";"-";30000
-"People's Republic of China";"Zaozhuang";"Zaozhuang Stadium";"-";30000
-"People's Republic of China";"Zhenjiang";"Zhenjiang SCC Stadium";"-";30000
-"People's Republic of China";"Tongling";"Tongling SC Stadium";"-";30000
-"People's Republic of China";"Suining";"Suining SC Stadium";"-";30000
-"People's Republic of China";"Nantong";"Nantong Stadium";"-";22000
+"People's Republic of China";"Yinchuan";"Helan Shan Stadium";NA;39872
+"People's Republic of China";"Zhanjiang";"Zhanjiang Olympic Center Stadium";NA;39769
+"People's Republic of China";"Yancheng";"Yancheng SC Stadium";NA;37003
+"People's Republic of China";"Foshan";"Century Lotus Stadium";NA;36000
+"People's Republic of China";"Panjin";"Red Beach Stadium";NA;35600
+"People's Republic of China";"Ordos";"Ordos Dongsheng Stadium";NA;35107
+"People's Republic of China";"Qinhuangdao";"Qinhuangdao Olympic Stadium";NA;33572
+"People's Republic of China";"Daqing";"Daqing Olympic Park Stadium";NA;32031
+"People's Republic of China";"Jiangyin";"Jiangyin Sports Centre Stadium";NA;31888
+"People's Republic of China";"Datong";"Datong SC Stadium";NA;30000
+"People's Republic of China";"Zaozhuang";"Zaozhuang Stadium";NA;30000
+"People's Republic of China";"Zhenjiang";"Zhenjiang SCC Stadium";NA;30000
+"People's Republic of China";"Tongling";"Tongling SC Stadium";NA;30000
+"People's Republic of China";"Suining";"Suining SC Stadium";NA;30000
+"People's Republic of China";"Nantong";"Nantong Stadium";NA;22000
 "People's Republic of China";"Shanghai";"Yuanshen Stadium";"Zobon";20000
-"People's Republic of China";"Shenzhen";"Shenzhen Bay Sports Center";"-";20000
-"People's Republic of China";"Lhasa";"Lhasa Stadium";"-";20000
-"People's Republic of China";"Wuzhou";"Wuzhou City Hongling Stadium";"-";18300
-"People's Republic of China";"Macau";"Macau Stadium";"-";15722
+"People's Republic of China";"Shenzhen";"Shenzhen Bay Sports Center";NA;20000
+"People's Republic of China";"Lhasa";"Lhasa Stadium";NA;20000
+"People's Republic of China";"Wuzhou";"Wuzhou City Hongling Stadium";NA;18300
+"People's Republic of China";"Macau";"Macau Stadium";NA;15722
 "People's Republic of China";"Guangzhou";"Huangpu Sports Center Stadium";"Guangdong FC";12000
 "Philippines";"Capas";"New Clark City Stadium";"United City";20000
-"Qatar";"Doha";"Khalifa Stadium";"-";48000
-"Qatar";"Lusail City";"Lusail Stadium";"-";80000
-"Qatar";"Al Khor";"Al Bayt Stadium";"-";60000
-"Qatar";"Doha";"Education City Stadium";"-";45350
+"Qatar";"Doha";"Khalifa Stadium";NA;48000
+"Qatar";"Lusail City";"Lusail Stadium";NA;80000
+"Qatar";"Al Khor";"Al Bayt Stadium";NA;60000
+"Qatar";"Doha";"Education City Stadium";NA;45350
 "Qatar";"Al-Wakrah";"Al Janoub Stadium";"Al-Wakrah SC";40777
 "Qatar";"Al-Rayyan";"Ahmad bin Ali Stadium";"Al-Rayyan SC";40740
-"Qatar";"Doha";"Al Thumama Stadium";"-";40000
-"Qatar";"Doha";"Stadium 974";"-";40000
+"Qatar";"Doha";"Al Thumama Stadium";NA;40000
+"Qatar";"Doha";"Stadium 974";NA;40000
 "Qatar";"Doha";"Thani bin Jassim Stadium";"Al-Gharafa";21175
 "Qatar";"Doha";"Grand Hamad Stadium";"Al-Arabi";13000
 "Qatar";"Doha";"Jassim bin Hamad Stadium";"Al-Sadd";11918
@@ -213,10 +213,10 @@
 "Saudi Arabia";"Jeddah";"Prince Abdullah Al-Faisal Stadium";"Al-Ahli, Al-Ittihad";27000
 "Saudi Arabia";"Buraydah";"King Abdullah Sports City Stadium";"Al-Taawon, Al-Raed";25000
 "Saudi Arabia";"Riyadh";"MRSOOL Park";"Al Nassr";25000
-"Singapore";"Singapore";"Singapore National Stadium";"-";55000
-"Singapore";"Singapore";"The Float @ Marina Bay";"-";30000
+"Singapore";"Singapore";"Singapore National Stadium";NA;55000
+"Singapore";"Singapore";"The Float @ Marina Bay";NA;30000
 "Singapore";"Singapore";"Jalan Besar Stadium";"Young Lions";6000
-"Singapore";"Singapore";"Choa Chu Kang Stadium";"-";4000
+"Singapore";"Singapore";"Choa Chu Kang Stadium";NA;4000
 "South Korea";"Seoul";"Seoul World Cup Stadium";"FC Seoul";66704
 "South Korea";"Busan";"Busan Asiad Stadium";"I’Park";53864
 "South Korea";"Ulsan";"Munsu Football Stadium";"Hyundai Horang-i";44466
@@ -232,33 +232,33 @@
 "South Korea";"Gwangyang";"Gwangyang Stadium";"Chunnam Dragons";13496
 "South Korea";"Daegu";"DGB Daegu Bank Park";"Daegu FC";12419
 "South Korea";"Daegu";"Daegu Stadium";"Daegu FC";66422
-"South Korea";"Incheon";"Incheon Asiad Main Stadium";"-";61074
-"South Korea";"Incheon";"Incheon Munhak Stadium";"-";49084
+"South Korea";"Incheon";"Incheon Asiad Main Stadium";NA;61074
+"South Korea";"Incheon";"Incheon Munhak Stadium";NA;49084
 "South Korea";"Bucheon";"Bucheon Stadium";"Bucheon FC";35545
-"South Korea";"Hwaseong";"Hwaseong Stadium";"-";35000
+"South Korea";"Hwaseong";"Hwaseong Stadium";NA;35000
 "South Korea";"Changwon";"Changwon Civic Stadium";"Changwon City";27085
-"South Korea";"Seongnam";"Seongnam Sports Complex Stadium";"-";21149
-"South Korea";"Icheon";"Icheon Stadium";"-";20305
-"South Korea";"Jinju";"Jinju Stadium";"-";20016
+"South Korea";"Seongnam";"Seongnam Sports Complex Stadium";NA;21149
+"South Korea";"Icheon";"Icheon Stadium";NA;20305
+"South Korea";"Jinju";"Jinju Stadium";NA;20016
 "South Korea";"Ulsan";"Ulsan Stadium";"Mipo Dockyard Dolphins";19665
-"South Korea";"Daegwallyeong";"Alpensia Stadium";"-";11000
+"South Korea";"Daegwallyeong";"Alpensia Stadium";NA;11000
 "Syria";"Aleppo";"Aleppo International Stadium";"Al-Ittihad";75000
 "Syria";"Damascus";"Abbasiyyin Stadium";"Al-Wahda, Al-Jaish, Al Majd";30000
 "Syria";"Aleppo";"Al-Hamadaniah Stadium";"Hurriya";18000
 "Syria";"Idlib";"Idlib Stadium";"Omayya";7500
 "Taiwan";"Taipei";"Chungshan Stadium";"Tatung";20000
 "Taiwan";"Taipei";"Taipei Municipal Stadium";"Tatung";22000
-"Taiwan";"Kaohsiung";"Kaohsiung Stadium";"-";40000
-"Taiwan";"Taoyuan";"Taoyuan Stadium";"-";30000
+"Taiwan";"Kaohsiung";"Kaohsiung Stadium";NA;40000
+"Taiwan";"Taoyuan";"Taoyuan Stadium";NA;30000
 "Thailand";"Bangkok";"Rajamangala Stadium";"Osotspa Saraburi";49749
 "Thailand";"Buriram";"Chang Arena";"Buriram United";23489
 "Thailand";"Bangkok";"PAT Stadium";"Port FC";12308
 "Thailand";"Bangkok";"Thai-Japanese Stadium";"Bangkok United";6600
 "Thailand";"Bangkok";"TOT Stadium";"TOT";5439
 "Thailand";"Bangkok";"Chulalongkorn Stadium";"Chamchuri United";20000
-"Turkmenistan";"Ashgabat";"Asgabat Olimpiýa Stadiony";"-";45000
+"Turkmenistan";"Ashgabat";"Asgabat Olimpiýa Stadiony";NA;45000
 "Turkmenistan";"Ashgabat";"Asgabat Stadiony";"Ahal, Altyn Asyr, Asgabat FK";20000
-"United Arab Emirates";"Abu Dhabi";"Zayed Sports City Stadium";"-";44260
+"United Arab Emirates";"Abu Dhabi";"Zayed Sports City Stadium";NA;44260
 "United Arab Emirates";"Abu Dhabi";"Mohammed Bin Zayed Stadium";"Al-Jazira";42056
 "United Arab Emirates";"Al-Ain";"HBZ Stadium";"Al-Ain";25000
 "United Arab Emirates";"Dubai";"Al-Rashid Stadium";"Shabab Al Ahli";18000
@@ -271,12 +271,12 @@
 "United Arab Emirates";"Ras Al-Khaimah";"Emirates Club Stadium";"Emirates Club";4830
 "United Arab Emirates";"Sharjah";"Sharjah Stadium";"Sharjah FC";12000
 "United Arab Emirates";"Sharjah";"Khalid Bin Mohammed Stadium";"Al Shaab Club";12000
-"United Arab Emirates";"Al-Ain";"Tahnoun Bin Mohamed Stadium";"-";10000
-"United Arab Emirates";"Dubai";"Police Officers’ Club Stadium";"-";7500
+"United Arab Emirates";"Al-Ain";"Tahnoun Bin Mohamed Stadium";NA;10000
+"United Arab Emirates";"Dubai";"Police Officers’ Club Stadium";NA;7500
 "Uzbekistan";"Tashkent";"Pakhtakor Markaziy Stadioni";"Pakhtakor FK";35000
 "Uzbekistan";"Tashkent";"Milliy Stadioni";"Bunyodkor";34000
 "Uzbekistan";"Bukhara";"Buxoro Arena";"FK Buxoro";25520
-"Vietnam";"Hanoi";"My Dinh Stadium";"-";40192
+"Vietnam";"Hanoi";"My Dinh Stadium";NA;40192
 "Vietnam";"Ho Chi Minh City";"Thong Nhat Stadium";"Sài Gòn FC, Thành ph<U+1ED1>, Navibank Sài Gòn";25000
 "Vietnam";"Hanoi";"Hang Day Stadium";"Th<U+1EC3> Công, T&T, Hòa Phát, ACB";22500
 "Vietnam";"Thu Dau Mot";"Go Dau Stadium";"Binh Duong";18250
@@ -289,43 +289,43 @@
 "Algeria";"Chlef";"Stade Mohamed Boumezrag";"ASO Chlef";17000
 "Algeria";"Algiers";"Stade Mohamed-Benhaddad";"RC Kouba";10000
 "Algeria";"El Eulma";"Stade Amar Hareche";"MCEE";5000
-"Angola";"Kilamba Kiaxi";"Estádio 11 de Novembro";"-";50000
+"Angola";"Kilamba Kiaxi";"Estádio 11 de Novembro";NA;50000
 "Angola";"Benguela";"Estádio de Ombaka";"Clube 1° de Maio";35000
 "Angola";"Lubango";"Estádio da Tundavala";"Sport Lubango e Benfica";20000
 "Angola";"Cabinda";"Estádio do Chiazi";"FC de Cabinda";20000
-"Botswana";"Gaborone";"Botswana National Stadium";"-";22000
-"Burkina Faso";"Ouagadougou";"Stade du 4-Août";"-";38000
+"Botswana";"Gaborone";"Botswana National Stadium";NA;22000
+"Burkina Faso";"Ouagadougou";"Stade du 4-Août";NA;38000
 "Burundi";"Bujumbura";"Stade Prince Louis Rwagasore";"Prince Louis, Vital'O";22000
-"Cameroon";"Yaoundé";"Stade Omnisport Paul Biya";"-";60000
-"Cameroon";"Bafoussam";"Stade Omnisports de Bafoussam";"-";20142
-"Congo";"Brazzaville";"Stade de Kintélé";"-";60055
+"Cameroon";"Yaoundé";"Stade Omnisport Paul Biya";NA;60000
+"Cameroon";"Bafoussam";"Stade Omnisports de Bafoussam";NA;20142
+"Congo";"Brazzaville";"Stade de Kintélé";NA;60055
 "Egypt";"Cairo";"Cairo International Stadium";"Zamalek, Al-Ahly";74100
 "Egypt";"Cairo";"Military Academy Stadium";"Al-Jaish";28500
 "Egypt";"Alexandria";"Harras El-Hedoud Stadium";"Sawahel";22000
 "Egypt";"Port Said";"Port Said Stadium";"Al-Masry";17988
-"Egypt";"Borg El-Arab";"Borg El-Arab Stadium";"-";86000
+"Egypt";"Borg El-Arab";"Borg El-Arab Stadium";NA;86000
 "Egypt";"Cairo";"Mukhtar Al-Tetsh Stadium";"Al-Ahly";25000
 "Equatorial Guinea";"Malabo";"Estadio de Malabo";"Atlético Malabo, Atlético Semu, Deportivo Unidad,";15250
-"Equatorial Guinea";"Bata";"Estadio de Bata";"-";35700
+"Equatorial Guinea";"Bata";"Estadio de Bata";NA;35700
 "Eritrea";"Asmara";"Cicero Stadium";"Red Sea, Adulis, Hintsa, Edaga Hamus";20000
-"Gabon";"Libreville";"Stade de l’Amitié Sino-Gabonaise";"-";40000
+"Gabon";"Libreville";"Stade de l’Amitié Sino-Gabonaise";NA;40000
 "Gabon";"Franceville";"Stade de Franceville";"FC Franceville";22000
-"Gabon";"Port-Gentil";"Stade de Port-Gentil";"-";20200
-"Gabon";"Oyem";"Stade d'Oyem";"-";20031
-"Gambia";"Bakau";"Independence Stadium";"-";28000
+"Gabon";"Port-Gentil";"Stade de Port-Gentil";NA;20200
+"Gabon";"Oyem";"Stade d'Oyem";NA;20031
+"Gambia";"Bakau";"Independence Stadium";NA;28000
 "Ghana";"Accra";"Accra Sports Stadium";"Hearts of Oak,  Great Olympics";40000
 "Ghana";"Kumasi";"Baba Yara Stadium";"Asante Kotoko, King Faisal";40528
 "Ghana";"Tamale";"Alhaji Aliu Mahama Sports Stadium";"Real Tamale United";21017
 "Ghana";"Cape Coast";"Cape Coast Stadium";"Ebusua Dwarfs";15000
 "Ghana";"Sekondi-Takoradi";"Sekondi-Takoradi Stadium";"Hasaacas";20000
-"Ivory Coast";"Ebimpé";"Stade Olympique d’Ebimpé";"-";60012
+"Ivory Coast";"Ebimpé";"Stade Olympique d’Ebimpé";NA;60012
 "Ivory Coast";"Abidjan";"Stade Félix-Houphouët-Boigny";"ASEC Mimosas";35000
 "Kenya";"Nairobi";"Nyayo National Stadium";"Leopards";30000
 "Kenya";"Nairobi";"Safaricom Stadium";"Mathare United, Tusker";60000
 "Kenya";"Nakuru";"Afraha Stadium";"AllStars, Ulinzi Stars, Utawala";8200
-"Lesotho";"Maseru";"Setsoto Stadium";"-";20000
-"Malawi";"Lilongwe";"Bingu National Stadium";"-";41100
-"Mali";"Bamako";"Stade du 26 Mars";"-";55000
+"Lesotho";"Maseru";"Setsoto Stadium";NA;20000
+"Malawi";"Lilongwe";"Bingu National Stadium";NA;41100
+"Mali";"Bamako";"Stade du 26 Mars";NA;55000
 "Morocco";"Casablanca";"Stade Mohamed V";"Raja, Wydad";67000
 "Morocco";"Rabat";"Stade Moulay Abdallah";"FAR";65000
 "Morocco";"Agadir";"Stade Adrar";"Hassania";45480
@@ -344,10 +344,10 @@
 "Morocco";"Oujda";"Stade d'Honneur d’Oujda";"Mouloudia";30000
 "Morocco";"Meknes";"Stade d'Honneur de Meknès";"CODM";20000
 "Morocco";"Mohammedia";"Stade Bachir";"Chabab";15000
-"Mozambique";"Maputo";"Estádio do Zimpeto";"-";42000
+"Mozambique";"Maputo";"Estádio do Zimpeto";NA;42000
 "Mozambique";"Maputo";"Estádio da Machava";"Ferroviário";40000
-"Nigeria";"Abuja";"Moshood Abiola Stadium";"-";60491
-"Nigeria";"Uyo";"Godswill Akpabio International Stadium";"-";30000
+"Nigeria";"Abuja";"Moshood Abiola Stadium";NA;60491
+"Nigeria";"Uyo";"Godswill Akpabio International Stadium";NA;30000
 "Republic of South Africa";"Johannesburg";"FNB Stadium";"Kaizer Chiefs";94736
 "Republic of South Africa";"Cape Town";"Cape Town Stadium";"Spurs, City";55000
 "Republic of South Africa";"Port Elizabeth";"Nelson Mandela Bay Stadium";"Chippa United";48459
@@ -357,19 +357,19 @@
 "Republic of South Africa";"Atteridgeville";"Lucas Moripe Stadium";"Sundowns, Supersport United";28900
 "Republic of South Africa";"Rosettenville";"Rand Stadium";"Kaizer Chiefs";25000
 "Republic of South Africa";"Johannesburg";"Bidvest Stadium";"Bidvest Wits";5000
-"Republic of South Africa";"Johannesburg";"Ellis Park";"-";62567
-"Republic of South Africa";"Mahikeng";"Mmabatho Stadium";"-";59000
-"Republic of South Africa";"Durban";"Moses Mabhida Stadium";"-";56000
-"Republic of South Africa";"Pretoria";"Loftus Versfeld";"-";51762
-"Republic of South Africa";"Cape Town";"Newlands Stadium";"-";51489
-"Republic of South Africa";"Polokwane";"Peter Mokaba Stadium";"-";41733
-"Republic of South Africa";"Nelspruit";"Mbombela Stadium";"-";40929
-"Republic of South Africa";"Cape Town";"Athlone Stadium";"-";34000
+"Republic of South Africa";"Johannesburg";"Ellis Park";NA;62567
+"Republic of South Africa";"Mahikeng";"Mmabatho Stadium";NA;59000
+"Republic of South Africa";"Durban";"Moses Mabhida Stadium";NA;56000
+"Republic of South Africa";"Pretoria";"Loftus Versfeld";NA;51762
+"Republic of South Africa";"Cape Town";"Newlands Stadium";NA;51489
+"Republic of South Africa";"Polokwane";"Peter Mokaba Stadium";NA;41733
+"Republic of South Africa";"Nelspruit";"Mbombela Stadium";NA;40929
+"Republic of South Africa";"Cape Town";"Athlone Stadium";NA;34000
 "Rwanda";"Kigali";"Stade Amahoro";"AS Kigali, Rayon Sports, Nyanza, Kiyovu, La Jeunes";30000
-"Senegal";"Dakar";"Stade Léopold Senghor";"-";60000
-"Senegal";"Diamniadio";"Stade du Sénégal";"-";50000
+"Senegal";"Dakar";"Stade Léopold Senghor";NA;60000
+"Senegal";"Diamniadio";"Stade du Sénégal";NA;50000
 "Tanzania";"Dar Es Salaam";"Benjamin Mkapa Stadium";"Simba, Young Africans";60000
-"Tunisia";"Radès";"Stade 7 Novembre";"-";65000
+"Tunisia";"Radès";"Stade 7 Novembre";NA;65000
 "Tunisia";"Tunis";"Stade El Menzah";"CA, EST";45000
 "Tunisia";"Sousse";"Stade Olympique";"Étoile Sportive du Sahel";28000
 "Tunisia";"Bizerte";"Stade du 15 Octobre";"CAB";20000
@@ -384,12 +384,12 @@
 "Canada";"Regina";"Mosaic Stadium";"Roughriders";33000
 "Canada";"Montreal";"Percival Molson Stadium";"Alouettes";25012
 "Canada";"Ottawa";"TD Place Stadium";"Redblacks, Fury";24000
-"Canada";"Hamilton";"Tim Hortons Field";"-";24000
+"Canada";"Hamilton";"Tim Hortons Field";NA;24000
 "Canada";"Vancouver";"BC Place";"Whitecaps, Lions";52465
 "Canada";"Montreal";"Stade Saputo";"CF Montréal";20801
-"Canada";"Regina";"Taylor Field";"-";30945
+"Canada";"Regina";"Taylor Field";NA;30945
 "Canada";"Toronto";"Lamport Stadium";"Serbian White Eagles";9600
-"Costa Rica";"San José";"Estadio Nacional";"-";35062
+"Costa Rica";"San José";"Estadio Nacional";NA;35062
 "Costa Rica";"San José";"Estadio Ricardo Saprissa";"Deportivo Saprissa";23112
 "Costa Rica";"Alajuela";"Estadio Alejandro Morera Soto";"LD Alajuelense";17895
 "Costa Rica";"Puntarenas";"Estadio Miguel „Lito” Pérez";"Puntarenas FC";4105
@@ -423,7 +423,7 @@
 "Mexico";"Guadalajara";"Estadio 3 de Marzo";"Estudiantes";22988
 "Mexico";"Cancún";"Estadio Andrés Quintana Roo";"CF Atlante";20000
 "Mexico";"Mexico City";"Estadio de la Ciudad de los Deportes";"Atlante FC";36681
-"Mexico";"Monterrey";"Estadio Tecnológico";"-";32662
+"Mexico";"Monterrey";"Estadio Tecnológico";NA;32662
 "Mexico";"Toluca";"Estadio Alberto Córdoba";"Potros";32000
 "Mexico";"Boca del Rio";"Estadio Luís de la Fuente";"Veracruz";28703
 "Mexico";"Netzahualcóyotl";"Estadio Azulgrana";"Neza FC";28500
@@ -434,7 +434,7 @@
 "Mexico";"La Piedad";"Estadio Juan N. López";"Reboceros";20000
 "Mexico";"Ciudad Victoria";"Estadio Marte R. Gómez";"Correcaminos";18000
 "Mexico";"Oaxaca de Juárez";"Estadio Tecnológico de Oaxaca";"Alebrijes";17200
-"Mexico";"Aquascalientes";"Estadio Borregos";"-";2000
+"Mexico";"Aquascalientes";"Estadio Borregos";NA;2000
 "Trinidad and Tobago";"Port of Spain";"Hasely Crawford Stadium";"Defence Force, Police FC, San Juan Jabloteh";23000
 "Trinidad and Tobago";"Couva";"Ato Boldon Stadium";"South Starworld Strikers";10000
 "Trinidad and Tobago";"Marabella";"Mannie Ramjohn Stadium";"South End, MSC, Police FC, W Connection";10000
@@ -489,7 +489,7 @@
 "United States of America";"Detroit";"Ford Field";"Lions";65000
 "United States of America";"Glendale";"State Farm Stadium";"Cardinals";63400
 "United States of America";"Indianapolis";"Lucas Oil Stadium";"Colts";63000
-"United States of America";"Bristol";"Bristol Motor Speedway";"-";153000
+"United States of America";"Bristol";"Bristol Motor Speedway";NA;153000
 "United States of America";"Ann Arbor";"Michigan Stadium";"Wolverines";107601
 "United States of America";"University Park";"Beaver Stadium";"Penn State";106572
 "United States of America";"Columbus";"Ohio Stadium";"Buckeyes";104944
@@ -500,7 +500,7 @@
 "United States of America";"Tuscaloosa";"Bryant-Denny Stadium";"Crimson Tide";100077
 "United States of America";"Athens";"Sanford Stadium";"Bulldogs";92746
 "United States of America";"Pasadena";"Rose Bowl";"Bruins";92542
-"United States of America";"Dallas";"Cotton Bowl";"-";92100
+"United States of America";"Dallas";"Cotton Bowl";NA;92100
 "United States of America";"Gainsville";"Ben Hill Griffin Stadium";"Gators";88548
 "United States of America";"Auburn";"Jordan-Hare Stadium";"Tigers";87451
 "United States of America";"Lincoln";"Memorial Stadium";"Cornhuskers";86047
@@ -529,8 +529,8 @@
 "United States of America";"Orlando";"Camping World Stadium";"Orlando City";61348
 "United States of America";"Memphis";"Simmons Bank Liberty Stadium";"Tigers";59308
 "United States of America";"West Lafayette";"Ross-Ade Stadium";"Boilermakers";57236
-"United States of America";"Washington";"RFK Stadium";"-";56692
-"United States of America";"Oakland";"O.co Coliseum";"-";56057
+"United States of America";"Washington";"RFK Stadium";NA;56692
+"United States of America";"Oakland";"O.co Coliseum";NA;56057
 "United States of America";"Eugene";"Autzen Stadium";"Ducks";54000
 "United States of America";"Tempe";"Sun Devil Stadium";"Sun Devils";53559
 "United States of America";"Stillwater";"Boone Pickens Stadium";"Cowboys";53000
@@ -564,13 +564,13 @@
 "United States of America";"Bridgeview";"SeatGeek Stadium";"Red Stars";20000
 "United States of America";"Cedar Falls";"UNI-Dome";"Panthers";16324
 "United States of America";"Louisville";"Lynn Family Stadium";"Lou City, Racing";15304
-"United States of America";"Tacoma";"Stadium Bowl";"-";15000
+"United States of America";"Tacoma";"Stadium Bowl";NA;15000
 "United States of America";"Santa Clara";"Buck Shaw Stadium";"Santa Clara Broncos";10525
 "United States of America";"Charlotte";"American Legion Memorial Stadium";"Charlotte Independence";10500
-"United States of America";"Eugene";"Hayward Field";"-";10500
+"United States of America";"Eugene";"Hayward Field";NA;10500
 "United States of America";"Cary";"WakeMed Soccer Park";"North Carolina FC";10000
 "United States of America";"Chandler";"Wild Horse Pass Stadium";"Phoenix Rising FC";10000
-"United States of America";"Blaine";"NSC Stadium";"-";8500
+"United States of America";"Blaine";"NSC Stadium";NA;8500
 "United States of America";"San Antonio";"Toyota Field";"San Antonio FC";8296
 "United States of America";"Saint Petersburg";"Al Lang Stadium";"Rowdies";7500
 "United States of America";"New York";"Pier 40";"DUSC";500
@@ -589,10 +589,10 @@
 "Argentina";"Santiago del Estero";"Estadio Único Madre de Ciudades";"Central Córdoba";30000
 "Argentina";"Buenos Aires";"Estadio Diego Armando Maradona";"AA Argentinos Juniors";24800
 "Argentina";"Sarandí";"Estadio del Viaducto";"Arsenal FC";16300
-"Argentina";"Cordoba";"Estadio Mario Alberto Kempes";"-";57000
+"Argentina";"Cordoba";"Estadio Mario Alberto Kempes";NA;57000
 "Argentina";"Rosario";"El Gigante de Arroyito";"Rosario Central";41654
-"Argentina";"Mendoza";"Estadio Malvinas Argentinas";"-";40268
-"Argentina";"Villa Mercedes";"Estadio Único";"-";28000
+"Argentina";"Mendoza";"Estadio Malvinas Argentinas";NA;40268
+"Argentina";"Villa Mercedes";"Estadio Único";NA;28000
 "Argentina";"Buenos Aires";"Estadio Arquitecto Antonio Etcheverri";"Club Ferro Caril Oeste";22797
 "Bolivia";"La Paz";"Estadio Hernando Siles";"The Strongest, Destroyers, Mariscal Braun";42000
 "Bolivia";"Santa Cruz de la Sierra";"Estadio Ramón Aguilera";"Oriente Petrolero, Destroyers, Guabira, Blooming";38000
@@ -624,8 +624,8 @@
 "Brazil";"Recife";"Estádio do Arruda";"Santa Cruz";53289
 "Brazil";"Pôrto Alegre";"Estádio Olímpico Monumental";"Gremio";51081
 "Brazil";"Salvador da Bahia";"Itaipava Arena Fonte Nova";"EC Bahia";50000
-"Brazil";"Manaus";"Arena da Amazonia";"-";44351
-"Brazil";"São Paulo";"Estádio do Pacaembu";"-";37952
+"Brazil";"Manaus";"Arena da Amazonia";NA;44351
+"Brazil";"São Paulo";"Estádio do Pacaembu";NA;37952
 "Brazil";"Barueri";"Arena Barueri";"SC Barueri, Grêmio";35000
 "Brazil";"Belém";"Estádio Mangueirão";"Remo";35000
 "Brazil";"Salvador da Bahia";"Estádio Manoel Barradas";"Vitória";34842
@@ -665,7 +665,7 @@
 "Chile";"Copiapó";"Estadio Luis Valenzuela Hermosilla";"Deportes Copiapó";8000
 "Chile";"Curicó";"Estadio La Granja";"Curicó Unido";8000
 "Chile";"Quillota";"Estadio Lucio Fariña Fernández";"San Luis";7680
-"Chile";"Pelluhue";"Estadio Nicanor Apablaza";"-";952
+"Chile";"Pelluhue";"Estadio Nicanor Apablaza";NA;952
 "Colombia";"Baranquilla";"Estadio Metropolitano";"Junior, Uniautónoma";49612
 "Colombia";"Cúcuta";"Estadio General Santander";"Deportivo";42901
 "Colombia";"Medellín";"Estadio Atanasio Girardot";"Atlético, Independiente";40043
@@ -679,19 +679,19 @@
 "Ecuador";"Guayaquil";"Estadio Capwell";"Emelec";40059
 "Ecuador";"Quito";"Estadio Olímpico Atahualpa";"El Nacional, Deportivo Quito";39816
 "Ecuador";"Quito";"Estadio Banco Guayaquil";"Independiente del Valle";12000
-"Paraguay";"Asunción";"Estadio Defensores del Chaco";"-";36000
+"Paraguay";"Asunción";"Estadio Defensores del Chaco";NA;36000
 "Paraguay";"Asunción";"Estadio General Pablo Rojas";"Cerro Porteno";45000
 "Paraguay";"Pedro Juan Caballero";"Estadio Antonio Oddone Sarubbi";"3 de Febrero";28000
 "Paraguay";"Luque";"Estadio Feliciano Cáceres";"Luqueno";24000
 "Paraguay";"Asunción";"Estadio Manuel Ferreira";"Olímpia";22000
 "Paraguay";"Asunción";"Estadio Dr. Nicolás Leóz";"Club Libertad";10000
 "Paraguay";"Pedro Juan Caballero";"Estadio Rio Parapiti";"2 de Mayo";22000
-"Peru";"Lima";"Estadio Nacional José Diaz";"-";45574
+"Peru";"Lima";"Estadio Nacional José Diaz";NA;45574
 "Peru";"Ate";"Estadio Teodoro Lolo Fernández";"Universitario";80093
 "Peru";"Cusco";"Estadio Garcilaso de la Vega";"Cienciano";42056
 "Peru";"Lima";"Estadio Alejandro Villanueva";"Alianza";33938
 "Peru";"Callao";"Estadio Miguel Grau";"Sport Boys";15000
-"Uruguay";"Montevideo";"Estadio Centenario";"-";65235
+"Uruguay";"Montevideo";"Estadio Centenario";NA;65235
 "Uruguay";"Bañados de Carrasco";"Estadio Campeón del Siglo";"CA Penarol";40005
 "Uruguay";"Montevideo";"El Parque Central";"Nacional";26500
 "Uruguay";"Montevideo";"Estadio Olímpico";"Rampla Juniors";6000
@@ -705,10 +705,10 @@
 "Venezuela";"Barinas";"Estadio Agustín Tovar";"Zamora";30000
 "Venezuela";"Maracaibo";"Estadio José “Pachencho” Romero";"UA Maracaibo";42000
 "Venezuela";"Caracas";"Cocodrilos Sports Park";"Caracas FC";3500
-"New Zealand";"Auckland";"Eden Park";"-";50000
+"New Zealand";"Auckland";"Eden Park";NA;50000
 "New Zealand";"Wellington";"Sky Stadium";"Phoenix";36000
 "New Zealand";"Dunedin";"Forsyth Barr Stadium";"Otago United";30748
-"Albania";"Tirana";"Air Albania Stadium";"-";21690
+"Albania";"Tirana";"Air Albania Stadium";NA;21690
 "Albania";"Durrës";"Stadiumi Niko Dovana";"Teuta";12040
 "Albania";"Tirana";"Stadiumi Selman Stërmasi";"KF Tirana, Dinamo, Partizani";9500
 "Albania";"Vlorë";"Stadiumi Flamurtari";"Flamurtari Vlorë";8200
@@ -719,7 +719,7 @@
 "Armenia";"Yerevan";"Hrazdan Stadion";"Ararat, Kilikia";54208
 "Armenia";"Yerevan";"Alashkert Stadion";"Alashkert";6850
 "Armenia";"Yerevan";"Banants Stadion";"Banants";4860
-"Austria";"Vienna";"Ernst-Happel-Stadion";"-";50865
+"Austria";"Vienna";"Ernst-Happel-Stadion";NA;50865
 "Austria";"Salzburg";"Red Bull Arena";"Salzburg";30188
 "Austria";"Klagenfurt am Wörthersee";"Wörthersee Stadion";"Austria";30000
 "Austria";"Vienna";"Allianz Stadion";"Rapid";28666
@@ -743,17 +743,17 @@
 "Austria";"Ritzing";"Sonnenseestadion";"SC Ritzing, SC Eisenstadt";5000
 "Austria";"Mattersburg";"Fußballakademie Burgenland";"SV Mattersburg";2500
 "Austria";"Melk";"Stadion Schuberth";"SC Melk";2500
-"Austria";"Linz";"Donauparkstadion";"-";2000
+"Austria";"Linz";"Donauparkstadion";NA;2000
 "Austria";"Hall in Tirol";"Sportplatz Lend";"SV Hall";2000
 "Austria";"Salzburg";"MyPhone Austria Stadion";"Austria";1566
-"Azerbaijan";"Baku";"Baki Olimpiya Stadionu";"-";69870
+"Azerbaijan";"Baku";"Baki Olimpiya Stadionu";NA;69870
 "Azerbaijan";"Baku";"Bakcell Arena";"Neftçi";11000
 "Azerbaijan";"Baku";"ASK Arena";"Kesl<U+0259>";8125
 "Azerbaijan";"Baku";"Az<U+0259>rsun Arena";"Qarabag";5800
 "Azerbaijan";"Baku";"Tofiq B<U+0259>khramov Stadionu";"Neftchi, FK Baku";31100
 "Azerbaijan";"Imishli";"Habil X<U+0259>lilov Stadionu";"MKT-Araz";8500
-"Azerbaijan";"Baku";"SKIF Stadionu";"-";2508
-"Belarus";"Minsk";"Stadion Dinama";"-";22246
+"Azerbaijan";"Baku";"SKIF Stadionu";NA;2508
+"Belarus";"Minsk";"Stadion Dinama";NA;22246
 "Belarus";"Borisov";"Borisov Arena";"BATE";13121
 "Belarus";"Brest";"Stadion Brestskiy";"Dynamo";10169
 "Belarus";"Grodno";"Neman Stadion";"Neman";8800
@@ -762,7 +762,7 @@
 "Belarus";"Minsk";"Stadion Dinamo-Yuni";"Dinamo";4500
 "Belarus";"Minsk";"Stadion Traktor";"MTZ-RIPO, Zvezda-VA-BGU";17586
 "Belarus";"Borisov";"Stadion Horodskiy";"BATE";5402
-"Belgium";"Brussels";"Koning Boudewijn Stadion";"-";50122
+"Belgium";"Brussels";"Koning Boudewijn Stadion";NA;50122
 "Belgium";"Brugge";"Jan Breydel Stadion";"Club Brugge, Cercle Brugge";29022
 "Belgium";"Brussels";"Lotto Park";"Anderlecht";28063
 "Belgium";"Liège";"Stade de Sclessin";"Standard";27670
@@ -781,7 +781,7 @@
 "Belgium";"Brussels";"Stade des Trois Tilleuls";"RRC de Boitsfort";40000
 "Belgium";"Lier";"Herman Vanderpoortenstadion";"Lierse";15500
 "Belgium";"Sint-Jans-Molenbeek";"Edmond Machtens-Stadion";"FC Brussels";15266
-"Belgium";"Brussels";"Stade Adrien Bertelson";"-";15000
+"Belgium";"Brussels";"Stade Adrien Bertelson";NA;15000
 "Belgium";"Antwerp";"Ludo Coeck Stadion";"Berchem Sport";13607
 "Belgium";"Beveren";"Freethiel";"Waasland-Beveren";13290
 "Belgium";"Mons";"Stade Charles Tondreau";"RAEC Mons";12662
@@ -810,14 +810,14 @@
 "Bosnia-Herzegovina";"Bihac";"Stadion Jedinstvo";"Jedinstvo";7500
 "Bosnia-Herzegovina";"Gradacac";"Stadion Banja Ilidža";"Zvijezda";5000
 "Bosnia-Herzegovina";"Orašje";"Stadion Gradski";"HNK Orašje";3000
-"Bulgaria";"Sofia";"Stadion Vassil Levski";"-";43632
+"Bulgaria";"Sofia";"Stadion Vassil Levski";NA;43632
 "Bulgaria";"Sofia";"VIVACOM Arena - Georgi Asparuhov";"Levski";25000
 "Bulgaria";"Sofia";"Stadion Bâlgarska Armiya";"CSKA";22015
 "Bulgaria";"Plovdiv";"Stadion Hristo Botev";"Botev";21000
 "Bulgaria";"Sofia";"Stadion Aleksandar Shalamanov";"Slavija";18000
 "Bulgaria";"Plovdiv";"Stadion Lokomotiv";"Lokomotiv";12000
 "Bulgaria";"Razgrad";"Huvepharma Arena";"Ludogorets";9000
-"Bulgaria";"Plovdiv";"Stadion Plowdiw";"-";48000
+"Bulgaria";"Plovdiv";"Stadion Plowdiw";NA;48000
 "Bulgaria";"Burgas";"Stadion 9. Septembri";"Czernomorec";22000
 "Bulgaria";"Burgas";"Stadion Lazur";"Neftochimic";18339
 "Bulgaria";"Dupnitsa";"Stadion Bonchuk";"Marek";16050
@@ -846,7 +846,7 @@
 "Croatia";"Zadar";"Stadion Stanovi";"NK Zadar";5860
 "Croatia";"Rijeka";"Stadion Hrvatski vitezovi";"NK Dugopolje";5200
 "Croatia";"Zagreb";"Stadion Stjepan Spajic";"Hrvatski dragovoljac";4500
-"Croatia";"Pula";"Stadion ŠRC Uljanik-Veruda";"-";4000
+"Croatia";"Pula";"Stadion ŠRC Uljanik-Veruda";NA;4000
 "Croatia";"Žrnovnica";"Stadion u Pricvicu";"Mosor";3000
 "Croatia";"Imotski";"Stadion Gospin Dolac";"NK Imotski";2766
 "Croatia";"Klis";"Stadion pod Klisom";"Uskok";2000
@@ -884,10 +884,10 @@
 "Czech Republic";"Jihlava";"Stadion v Jiráskove ulici";"Vysocina";4075
 "Czech Republic";"Pardubice";"Pod Vinicí";"FK Pardubice";3000
 "Czech Republic";"Trinec";"Stadion Rudolfa Labaje";"FK Trinec";2000
-"Czech Republic";"Prague";"Stadion Evžena Rošického";"-";19032
+"Czech Republic";"Prague";"Stadion Evžena Rošického";NA;19032
 "Czech Republic";"Prague";"Stadion Markéta";"Olymp, Markéta";17500
-"Czech Republic";"Pardubice";"Letní stadion";"-";15000
-"Czech Republic";"Trinec";"Stadion na Lesní";"-";9050
+"Czech Republic";"Pardubice";"Letní stadion";NA;15000
+"Czech Republic";"Trinec";"Stadion na Lesní";NA;9050
 "Czech Republic";"Havirov";"Stadion Dukla";"MFK Havírov";7500
 "Czech Republic";"Most";"Stadion Josefa Masopusta";"Siad";7500
 "Czech Republic";"Liberec";"Mestsky Stadion Liberec";"FC Slovan Liberec";7000
@@ -916,7 +916,7 @@
 "Denmark";"Slagelse";"Slagelse Stadion";"Slagelse BK";10000
 "Denmark";"Kopenhagen";"Sundby IP";"Fremad Amager";7200
 "Denmark";"Helsingør";"Helsingør Stadion";"FC Helsingør";5500
-"England";"London";"Wembley Stadium";"-";90000
+"England";"London";"Wembley Stadium";NA;90000
 "England";"Manchester";"Old Trafford";"Manchester United";74140
 "England";"London";"Tottenham Hotspur Stadium";"Tottenham";62850
 "England";"London";"London Stadium";"West Ham";60000
@@ -983,17 +983,17 @@
 "England";"Morecambe";"Globe Arena";"Morecambe FC";6476
 "England";"Fleetwood";"Highbury Stadium";"Fleetwood Town";5094
 "England";"Accrington";"Wham Stadium";"Stanley";5057
-"England";"London";"Twickenham";"-";82223
+"England";"London";"Twickenham";NA;82223
 "England";"Coventry";"Coventry Building Society Arena";"Coventry City";32609
 "England";"Bradford";"Utilita Energy Stadium";"Bradford City";25100
-"England";"Darlington";"Darlington Arena";"-";25000
+"England";"Darlington";"Darlington Arena";NA;25000
 "England";"Stoke-on-Trent";"Vale Park";"Port Vale";19052
 "England";"St Helens";"Totally Wicked Stadium";"St. Helens RFC";17646
 "England";"Carlisle";"Brunton Park";"United";16980
 "England";"Birkenhead";"Prenton Park";"Tranmere";16587
 "England";"Plymouth";"Home Park";"Argyle";16388
 "England";"Swindon";"County Ground";"Swindon Town FC";15728
-"England";"Birmingham";"Alexander Stadium";"-";12700
+"England";"Birmingham";"Alexander Stadium";NA;12700
 "England";"Southend-on-Sea";"Roots Hall";"Southend United";12392
 "England";"London";"Griffin Park";"Brentford FC";12300
 "England";"Leigh";"Leigh Sports Village Stadium";"Leigh Centurions";12000
@@ -1017,7 +1017,7 @@
 "England";"Macclesfield";"Leasing.com Stadium";"Macclesfield FC";6355
 "England";"Kidderminster";"Aggborough";"Harriers";6238
 "England";"London";"The Hive";"Barnet FC";6205
-"England";"Barnet";"Underhill Stadium";"-";6200
+"England";"Barnet";"Underhill Stadium";NA;6200
 "England";"Crawley";"Checkatrade.com Stadium";"Crawley Town";6134
 "England";"London";"Victoria Road";"Dagenham & Redbridge";6078
 "England";"Southport";"Merseyrail Community Stadium";"Southport FC";6008
@@ -1039,7 +1039,7 @@
 "Estonia";"Tallinn";"Kadrioru Staadion";"Levadia";4700
 "Estonia";"Pärnu";"Pärnu Rannastaadion";"Vaprus, PJK";1501
 "Estonia";"Valga";"Valga Keskstaadion";"FC Valga";2500
-"Faroe Islands";"Tórshavn";"Tórsvøllur";"-";6040
+"Faroe Islands";"Tórshavn";"Tórsvøllur";NA;6040
 "Faroe Islands";"Toftir";"Svangaskarð";"B68";6000
 "Faroe Islands";"Tórshavn";"Gundadalur";"B36, BH";5000
 "Faroe Islands";"Fuglafjørður";"Fløtugerði";"ÍFF";3000
@@ -1048,7 +1048,7 @@
 "Faroe Islands";"Toftir";"Lilit Svangaskarð";"B68";1200
 "Faroe Islands";"Skala";"Skála Vøllurin";"Skála IF";1000
 "Faroe Islands";"Eiði";"Á Mølini";"EB/Streymur";500
-"Finland";"Helsinki";"Olympiastadion";"-";36200
+"Finland";"Helsinki";"Olympiastadion";NA;36200
 "Finland";"Tampere";"Ratina stadion";"FC Ilves";16820
 "Finland";"Lahti";"Lahden stadion";"FC Lahti";14465
 "Finland";"Helsinki";"Telia 5G -areena";"HJK";10770
@@ -1060,7 +1060,7 @@
 "Finland";"Kemi";"Sauvosaaren kenttä";"Kemi City";4000
 "Finland";"Jyväskylä";"Harjun stadion";"JJK Jyväskylä";2100
 "Finland";"Kauniainen";"Kauniaisten keskuskenttä";"GrIFK";500
-"France";"Saint-Denis";"Stade de France";"-";81338
+"France";"Saint-Denis";"Stade de France";NA;81338
 "France";"Marseille";"Orange Vélodrome";"Marseille";67394
 "France";"Lyon";"Groupama Stadium";"Lyon";59286
 "France";"Lille";"Stade Pierre Mauroy";"OSC Lille";50157
@@ -1097,8 +1097,8 @@
 "France";"Niort";"Stade René-Gaillard";"Chamois Niortais";11352
 "France";"Ajaccio";"Stade François-Coty";"AC Ajaccio";10500
 "France";"Dunkerque";"Stade Marcel-Tribut";"USL Dunkerque";4200
-"France";"Lyon";"Matmut Stadium";"-";43051
-"France";"Bordeaux";"Stade Chaban-Delmas";"-";34327
+"France";"Lyon";"Matmut Stadium";NA;43051
+"France";"Bordeaux";"Stade Chaban-Delmas";NA;34327
 "France";"Paris";"Paris La Défense Arena";"Racing 92";32000
 "France";"Le Mans";"MMArena";"UC Le Mans";25064
 "France";"Sedan";"Stade Louis Dugauguez";"Sedan";23189
@@ -1108,9 +1108,9 @@
 "France";"Lille";"Stade Lille-Métropole";"OSC Lille";18185
 "France";"Nice";"Stade du Ray";"OGC Nice";17415
 "France";"Valenciennes";"Stade Nungesser";"Valenciennes FC";16547
-"France";"Le Mans";"Stade Léon-Bollée";"-";16500
-"France";"Le Havre";"Stade Jules Deschaseaux";"-";16400
-"France";"Annecy";"Parc des Sports d’Annecy";"-";15714
+"France";"Le Mans";"Stade Léon-Bollée";NA;16500
+"France";"Le Havre";"Stade Jules Deschaseaux";NA;16400
+"France";"Annecy";"Parc des Sports d’Annecy";NA;15714
 "France";"Boulogne-sur-Mer";"Stade de la Libération";"US Boulogne";15034
 "France";"Montpellier";"Stade Yves-du-Manoir";"Montpellier Hérault Rugby";14700
 "France";"Calais";"Stade de l’Épopée";"Calais RUFC";12432
@@ -1120,7 +1120,7 @@
 "France";"Saint-Avold";"Stade Saint-Avold";"Etoile Naborienne";3000
 "France";"Schiltigheim";"Stade de l‘Aar";"SC Schiltigheim";2500
 "France";"Nantes";"Stade Marcel-Saupin";"Nantes";1880
-"France";"Grande-Synthe";"Stadium du Littoral";"-";617
+"France";"Grande-Synthe";"Stadium du Littoral";NA;617
 "Georgia";"Tbilisi";"Boris Paichadze Dinamo Arena";"Dinamo, FC Tbilisi";54549
 "Georgia";"Tbilisi";"Stadion Mikheil Meskhi";"Locomotive, Saburtalo";27223
 "Georgia";"Kutaisi";"Stadion Ramaz Shengelia";"Torpedo";12000
@@ -1179,7 +1179,7 @@
 "Germany";"Zwickau";"GGZ-Arena";"FSV Zwickau";10134
 "Germany";"Aspach";"mechatronik Arena";"SG Sonnenhof";10001
 "Germany";"Cologne";"Sportpark Höhenberg";"Viktoria";10000
-"Germany";"Munich";"Olympiastadion";"-";69250
+"Germany";"Munich";"Olympiastadion";NA;69250
 "Germany";"Krefeld";"Grotenburg";"KFC Uerdingen";34500
 "Germany";"Aachen";"Tivoli";"Alemannia";32900
 "Germany";"Augsburg";"Rosenaustadion";"FC Augsburg";32354
@@ -1212,7 +1212,7 @@
 "Germany";"Koblenz";"Stadion Oberwerth";"TuS Koblenz";15000
 "Germany";"Schweinfurt";"Willy-Sachs-Stadion";"1. FC Schweinfurt 05";15000
 "Germany";"Jena";"Ernst-Abbe-Sportfeld";"FC Carl Zeiss Jena";12630
-"Germany";"Regensburg";"Jahnstadion Regensburg";"-";12510
+"Germany";"Regensburg";"Jahnstadion Regensburg";NA;12510
 "Germany";"Frankfurt nad Menem";"Frankfurter Volksbank Stadion";"FSV";12500
 "Germany";"Paderborn";"Hermann-Löns-Stadion";"SC Paderborn 07";12000
 "Germany";"Stuttgart";"Gazi-Stadion";"Stuttgarter Kickers";11408
@@ -1227,7 +1227,7 @@
 "Germany";"Cologne";"Franz-Kremer-Stadion";"1. FC Köln II";5457
 "Germany";"Siegburg";"Walter-Mundorf-Stadion";"SSV 04";5000
 "Germany";"Rheda-Wiedenbrück";"Tönnies-Arena";"FSV Gütersloh, FSC Rheda";3562
-"Gibraltar";"Gibraltar";"Victoria Stadium";"-";5000
+"Gibraltar";"Gibraltar";"Victoria Stadium";NA;5000
 "Greece";"Athens";"Stádio Spiros Louis";"Panathinaikos, AEK";69618
 "Greece";"Peiraiefs";"Karaiskaki";"Olympiacos";33334
 "Greece";"Thessaloniki";"Stádio Toumba";"PAOK";28701
@@ -1258,7 +1258,7 @@
 "Greece";"Komotini";"Stádio Komotini";"Panthrakikos";3000
 "Greenland";"Nuuk";"Nuuk Stadion";"Nuuk IL, B-67";2000
 "Greenland";"Tasiilaq";"Tasiilaq Stadion";"ATA";500
-"Hungary";"Budapest";"Puskás Aréna";"-";67215
+"Hungary";"Budapest";"Puskás Aréna";NA;67215
 "Hungary";"Budapest";"Groupama Aréna";"Ferencváros";23700
 "Hungary";"Debrecen";"Nagyerdei Stadion";"DVSC";20340
 "Hungary";"Budapest";"Szusza Ferenc Stadion";"Újpest";14817
@@ -1287,13 +1287,13 @@
 "Iceland";"Reykjavík";"Víkingsvöllur";"Víkingur";1100
 "Iceland";"Reykjavík";"Fjölnisvöllur";"Fjölnir";1098
 "Iceland";"Garðabær";"Samsung Völlurinn";"Stjarnan";1000
-"Ireland";"Dublin";"Aviva Stadium";"-";51700
+"Ireland";"Dublin";"Aviva Stadium";NA;51700
 "Ireland";"Tallaght";"Tallaght Stadium";"Shamrock Rovers";8142
 "Ireland";"Cork";"Turners Cross Stadium";"Cork City";7485
 "Ireland";"Dublin";"Dalymount Park";"Bohemians";4227
 "Ireland";"Sligo";"The Showgrounds";"Rovers";4000
-"Ireland";"Dublin";"Croke Park";"-";82300
-"Ireland";"Limerick";"Thomond Park";"-";25630
+"Ireland";"Dublin";"Croke Park";NA;82300
+"Ireland";"Limerick";"Thomond Park";NA;25630
 "Ireland";"Longford";"Flancare Park";"Longford Town";6850
 "Ireland";"Dublin";"Tolka Park";"Shelbourne, Dublin City";6000
 "Israel";"Jerusalem";"Teddy Stadium";"Beitar, Hapoel, Hapoel Katamon";31733
@@ -1303,7 +1303,7 @@
 "Israel";"Netanya";"Netanya Stadium";"Maccabi";13800
 "Israel";"Petah Tikwa";"HaMoshava Stadium";"Hapoel, Maccabi";11500
 "Israel";"Ashdod";"Yud-Alef";"Ashdod";7980
-"Israel";"Tel Aviv-Yafo";"Ramat Gan";"-";40920
+"Israel";"Tel Aviv-Yafo";"Ramat Gan";NA;40920
 "Israel";"Herzliya";"Municipal Stadium";"Maccabi";8400
 "Israel";"Nazareth";"The Green Stadium";"Maccabi, Hapoel";5000
 "Israel";"Ilut";"Ilut Stadium";"Maccabi";4932
@@ -1346,14 +1346,14 @@
 "Italy";"Taranto";"Stadio Erasmo Iacovone";"Taranto Calcio";26348
 "Italy";"Avellino";"Stadio Partenio";"US Avellino";26150
 "Italy";"Foggia";"Stadio Pino Zaccheria";"US Foggia";25085
-"Italy";"Rome";"Stadio Flaminio";"-";24973
+"Italy";"Rome";"Stadio Flaminio";NA;24973
 "Italy";"Catania";"Stadio Angelo Massimino";"Calcio Catania";20797
 "Italy";"Modena";"Stadio Alberto Braglia";"FC Modena";20507
 "Italy";"Novara";"Stadio Silvio Piola";"Novara Calcio";17875
 "Italy";"Cagliari";"Stadio Sant’Elia";"Cagliari Calcio";16000
 "Italy";"Siena";"Stadio Artemio Franchi";"AC Siena";15725
 "Italy";"Mantua";"Stadio Danilo Martelli";"Mantova";14884
-"Italy";"Frosinone";"Stadio Comunale Matusa";"-";9680
+"Italy";"Frosinone";"Stadio Comunale Matusa";NA;9680
 "Italy";"Varese";"Stadio Franco Ossola";"AS Varese";9424
 "Italy";"Fano";"Stadio Raffaele Mancini";"Alma Juventus";8800
 "Italy";"Trapani";"Stadio Polisportivo Provinciale";"Trapani Calcio";7787
@@ -1370,7 +1370,7 @@
 "Latvia";"Liepaja";"Daugavas stadions";"FK Liepaja";5083
 "Latvia";"Ventspils";"Ventspils stadions";"FK Ventspils";3250
 "Latvia";"Jelgava";"ZOC stadions";"FK Jelgava";1560
-"Latvia";"Riga";"Latvijas Universitates";"-";5000
+"Latvia";"Riga";"Latvijas Universitates";NA;5000
 "Latvia";"Daugavpils";"Celtnieks";"Dinaburg, Ditton";3480
 "Latvia";"Liepaja";"Olimpija stadions";"FK Liepaja, 1625 Liepaja";1500
 "Latvia";"Riga";"Stadions Arkadija";"Caramba/Dinamo";412
@@ -1380,7 +1380,7 @@
 "Lithuania";"Marijampole";"Suduvos";"Suduva";4000
 "Lithuania";"Šiauliai";"Savivaldybes stadionas";"FC Šiauliai, Gintra–Universitetas";2430
 "Lithuania";"Pakruojis";"Pakruojo miesto stadionas";"Kruoja";2000
-"Luxemburg";"Luxembourg";"Stade de Luxembourg";"-";9385
+"Luxemburg";"Luxembourg";"Stade de Luxembourg";NA;9385
 "Luxemburg";"Luxembourg";"Stade Josy Barthel";"Racing Union";8054
 "Luxemburg";"Differdange";"Stade du Thillenberg";"FC Differdange";6300
 "Luxemburg";"Hesperange";"Stade Alphonse Theis";"Swift";4100
@@ -1393,15 +1393,15 @@
 "Malta";"Ta’ Qali";"Ta’ Qali Stadium";"Birkirka, Valletta, inne";17797
 "Malta";"Paola";"Hibernians Ground";"Hibernians";1232
 "Malta";"Hamrun";"Victor Tedesco Stadium";"Hamrun Spartans";858
-"Malta";"Ta’ Qali";"Centenary Stadium";"-";2000
+"Malta";"Ta’ Qali";"Centenary Stadium";NA;2000
 "Moldova";"Kishinev";"Zimbru";"FC Zimbru";10600
 "Moldova";"Tiraspol";"Bolshaya Sportivnaya Arena";"Sheriff";12746
 "Moldova";"Tiraspol";"Malaya Sportivnaya Arena";"Sheriff";8914
-"Moldova";"Kishinev";"Republican";"-";8009
+"Moldova";"Kishinev";"Republican";NA;8009
 "Moldova";"Bender";"Stadion Dinamo";"FK Tighina";5061
 "Moldova";"Tiraspol";"Krytaya Arena";"Sheriff";3570
 "Moldova";"Kishinev";"Dinamo";"FC Politehnica, CSCA";2692
-"Moldova";"Tiraspol";"Gorodskoy Stadion";"-";2525
+"Moldova";"Tiraspol";"Gorodskoy Stadion";NA;2525
 "Montenegro";"Podgorica";"Stadion pod Goricom";"Buducnost";15230
 "Netherlands";"Amsterdam";"Johan Cruijff ArenA";"Ajax";55870
 "Netherlands";"Rotterdam";"Stadion Feijenoord";"Feyenoord";51117
@@ -1421,7 +1421,7 @@
 "Netherlands";"Deventer";"De Adelaarshorst";"Go Ahead Eagles";10400
 "Netherlands";"Leeuwarden";"Cambuurstadion";"SC Cambuur";10250
 "Netherlands";"Waalwijk";"Mandemakers Stadion";"RKC Waalwijk";7500
-"Netherlands";"Amsterdam";"Olympisch Stadion";"-";22288
+"Netherlands";"Amsterdam";"Olympisch Stadion";NA;22288
 "Netherlands";"Kerkrade";"Parkstad Limburg";"Roda";19200
 "Netherlands";"Breda";"Rat Verlegh Stadion";"NAC";19000
 "Netherlands";"Hague";"Cars Jeans Stadion";"ADO Den Haag";15000
@@ -1451,7 +1451,7 @@
 "Northern Ireland";"Belfast";"Kingspan Stadium";"Ulster Rugby";18196
 "Northern Ireland";"Belfast";"Solitude";"Cliftonville";6224
 "Northern Ireland";"Belfast";"The Oval";"Glentoran";5056
-"Norway";"Oslo";"Ullevål Stadion";"-";27200
+"Norway";"Oslo";"Ullevål Stadion";NA;27200
 "Norway";"Trondheim";"Lerkendal Stadion";"Rosenborg";21366
 "Norway";"Oslo";"Intility Arena";"Vålerenga";17333
 "Norway";"Stavanger";"Viking Stadion";"Viking";15300
@@ -1465,12 +1465,12 @@
 "Norway";"Sarpsborg";"Sarpsborg Stadion";"Sarpsborg 08 FF";5000
 "Norway";"Bærum";"Nadderud Stadion";"Stabæk";4750
 "Norway";"Bergen";"Brann Stadion";"Brann";17686
-"Norway";"Fornebu";"Telenor Arena";"-";15600
+"Norway";"Fornebu";"Telenor Arena";NA;15600
 "Norway";"Oslo";"Bislett Stadion";"Skeid, Lyn";15400
 "Norway";"Kristiansand";"Sør Arena";"IK Start";14300
 "Norway";"Strømmen";"Strømmen Stadion";"Strømmen IF";1800
 "Norway";"Henningsvær";"HIL Stadion";"Henningsvær IL";500
-"Poland";"Warsaw";"PGE Narodowy";"-";58274
+"Poland";"Warsaw";"PGE Narodowy";NA;58274
 "Poland";"Wroclaw";"Tarczynski Arena Wroclaw";"Slask";45105
 "Poland";"Poznan";"Stadion Lecha Poznan";"Lech Poznan";42837
 "Poland";"Gdansk";"Polsat Plus Arena";"Lechia";41620
@@ -1532,7 +1532,7 @@
 "Poland";"Wroclaw";"Stadion Olimpijski";"Sparta";11000
 "Poland";"Lublin";"Stadion MOSiR Bystrzyca";"Motor, TZ Lublin";9818
 "Poland";"Grudziadz";"Stadion Zuzlowy w Grudziadzu";"GKM Grudziadz";8000
-"Poland";"Chorzów";"Stadion Slaski";"-";54378
+"Poland";"Chorzów";"Stadion Slaski";NA;54378
 "Poland";"Warsaw";"Stadion Skry Warszawa";"Skra";35000
 "Poland";"Bydgoszcz";"Stadion Zdzislawa Krzyszkowiaka";"SP Zawisza";20559
 "Poland";"Bydgoszcz";"Stadion Polonii Bydgoszcz";"Polonia";20000
@@ -1540,7 +1540,7 @@
 "Poland";"Bydgoszcz";"Stadion Chemika Bydgoszcz";"Chemik";15000
 "Poland";"Starachowice";"Stadion Miejski w Starachowicach";"Star";15000
 "Poland";"Zielona Gora";"Stadion Falubazu";"ZKZ";15000
-"Poland";"Walbrzych";"Stadion Nowe Miasto";"-";15000
+"Poland";"Walbrzych";"Stadion Nowe Miasto";NA;15000
 "Poland";"Zabrze";"Stadion Sparty Zabrze";"Sparta";13000
 "Poland";"Zamosc";"Stadion Hetmana";"Hetman";12500
 "Poland";"Debica";"Stadion Igloopolu Debica";"Igloopol";12000
@@ -1551,7 +1551,7 @@
 "Poland";"Gdansk";"Stadion Zbigniewa Podleckiego";"Wybrzeze";10000
 "Poland";"Bedzin";"Stadion Miejski w Bedzinie";"Sarmacja";10000
 "Poland";"Gniezno";"Stadion Startu Gniezno";"Start";10000
-"Poland";"Racibórz";"Stadion OSiR w Raciborzu";"-";10000
+"Poland";"Racibórz";"Stadion OSiR w Raciborzu";NA;10000
 "Poland";"Ostrowiec Swietokrzyski";"Stadion KSZO";"KSZO";8500
 "Poland";"Krakow";"Stadion Wandy Kraków";"Wanda";8000
 "Poland";"Konin";"Stadion Zlotej Jedenastki";"Medyk";7871
@@ -1566,22 +1566,22 @@
 "Poland";"Bytom";"Stadion Edwarda Szymkowiaka";"Polonia";5500
 "Poland";"Rydultowy";"Stadion Naprzodu Rydultowy";"Naprzód";5500
 "Poland";"Grudziadz";"Stadion Olimpii Grudziadz";"Olimpia";5323
-"Poland";"Kielce";"Stadion Korony Kielce";"-";5000
-"Poland";"Krakow";"Stadion AWF Kraków";"-";5000
+"Poland";"Kielce";"Stadion Korony Kielce";NA;5000
+"Poland";"Krakow";"Stadion AWF Kraków";NA;5000
 "Poland";"Ilawa";"Stadion Jezioraka";"Jeziorak";5000
-"Poland";"Sopot";"Stadion Lesny w Sopocie";"-";5000
-"Poland";"Slupsk";"Stadion 650-lecia";"-";5000
+"Poland";"Sopot";"Stadion Lesny w Sopocie";NA;5000
+"Poland";"Slupsk";"Stadion 650-lecia";NA;5000
 "Poland";"Radomsko";"Stadion Miejski w Radomsku";"RKS 1979";5000
 "Poland";"Wloclawek";"Stadion Kujawiaka";"Wloclavia";4840
 "Poland";"Kozienice";"Stadion MKS-u Kozienice";"Energia";4700
 "Poland";"Opoczno";"Stadion Ceramiki";"Ceramika";4700
 "Poland";"Dzierzoniow";"Stadion Lechii Dzierzoniów";"Lechia";4500
 "Poland";"Janikowo";"Stadion Unii Janikowo";"Unia Janikowo";4500
-"Poland";"Kielce";"Stadion Lekkoatletyczny w Kielcach";"-";4492
+"Poland";"Kielce";"Stadion Lekkoatletyczny w Kielcach";NA;4492
 "Poland";"Torun";"Stadion Grzegorza Duneckiego";"Elana Torun";4300
 "Poland";"Gorzów Wielkopolski";"Stadion OSiR Gorzów";"Stilon";4000
 "Poland";"Koscian";"Stadion Obry";"Obra";4000
-"Poland";"Wroclaw";"Intakus Park";"-";4000
+"Poland";"Wroclaw";"Intakus Park";NA;4000
 "Poland";"Koszalin";"Stadion Baltyku";"Baltyk";4000
 "Poland";"Lowicz";"Stadion Pelikana";"Pelikan";4000
 "Poland";"Tarnobrzeg";"Stadion Siarki Tarnobrzeg";"Siarka";3770
@@ -1607,7 +1607,7 @@
 "Poland";"Slupsk";"Stadion Gryfa Slupsk";"Gryf";3000
 "Poland";"Gostynin";"Stadion Miejski w Gostyninie";"Mazur";3000
 "Poland";"Otwock";"Stadion Startu Otwock";"Start";3000
-"Poland";"Poznan";"Stadion Olimpii Poznan";"-";3000
+"Poland";"Poznan";"Stadion Olimpii Poznan";NA;3000
 "Poland";"Gorzyce";"Stadion Tloków";"Tloki";3000
 "Poland";"Sochaczew";"Stadion Orkana Sochaczew";"Orkan";3000
 "Poland";"Olawa";"Stadion OCKF";"MKS Olawa";3000
@@ -1633,19 +1633,19 @@
 "Poland";"Zabki";"Dolcan Arena";"Zabkovia";2100
 "Poland";"Brzeg";"Stadion MOSiR Brzeg";"Stal";2100
 "Poland";"Aleksandrów Lódzki";"Stadion im. Wlodzimierza Smolarka";"Sokól";2086
-"Poland";"Zagan";"Arena Zagan";"-";2060
+"Poland";"Zagan";"Arena Zagan";NA;2060
 "Poland";"Gniezno";"Stadion Mieszka Gniezno";"Mieszko";2050
 "Poland";"Tomaszów Lubelski";"Stadion Tomasovii";"Tomasovia";2050
 "Poland";"Bytow";"Stadion Bytovii";"Bytovia";2043
 "Poland";"Sieradz";"Stadion Warty Sieradz";"Warta";2000
 "Poland";"Zgierz";"Stadion Boruty Zgierz";"Boruta";2000
 "Poland";"Gubin";"Stadion Miejski w Gubinie";"Carina";2000
-"Poland";"Jaworzno";"Stadion Karola Fuchsa";"-";2000
+"Poland";"Jaworzno";"Stadion Karola Fuchsa";NA;2000
 "Poland";"Trzcianka";"Stadion OSiR w Trzciance";"Lubuszanin";2000
 "Poland";"Góra Kalwaria";"Stadion Korony Góra Kalwaria";"Korona";2000
 "Poland";"Ruda slaska";"Stadion Uranii";"Urania";2000
 "Poland";"Olecko";"Stadion Czarnych Olecko";"Czarni";2000
-"Poland";"Skarzysko-Kamienna";"Stadion Ruchu Skarzysko-Kamienna";"-";2000
+"Poland";"Skarzysko-Kamienna";"Stadion Ruchu Skarzysko-Kamienna";NA;2000
 "Poland";"Kasnik";"Stadion Stali Krasnik";"Stal";2000
 "Poland";"Ropczyce";"Stadion Miejski w Ropczycach";"Blekitni";1993
 "Poland";"Debica";"Stadion Wisloki";"Wisloka";1988
@@ -1656,7 +1656,7 @@
 "Poland";"Grajewo";"Stadion Warmii Grajewo";"Warmia";1740
 "Poland";"Legionowo";"Stadion Legionovii";"Legionovia";1730
 "Poland";"Bielsko-Biala";"Stadion Sprintu Bielsko-Biala";"Sprint";1650
-"Poland";"Szczecin";"Stadion Wieslawa Maniaka";"-";1638
+"Poland";"Szczecin";"Stadion Wieslawa Maniaka";NA;1638
 "Poland";"Lidzbark Warminski";"Stadion Polonii Lidzbark";"Polonia";1600
 "Poland";"Gogolin";"Stadion Miejski w Gogolinie";"MKS Gogolin";1600
 "Poland";"Swarzedz";"Stadion Unii Swarzedz";"Unia";1500
@@ -1665,12 +1665,12 @@
 "Poland";"Bialystok";"Stadion Lekkoatletyczny BOSiR";"Bojary";1500
 "Poland";"Wolbrom";"Stadion Przeboju";"Przebój";1500
 "Poland";"Alwernia";"Stadion Miejski w Alwerni";"MKS Alwernia";1500
-"Poland";"Siedlce";"Stadion OSiR Siedlce";"-";1500
+"Poland";"Siedlce";"Stadion OSiR Siedlce";NA;1500
 "Poland";"Bilgoraj";"Stadion Lady Bilgoraj";"Lada";1495
 "Poland";"Nowa Ruda";"Stadion CTS Nowa Ruda";"Piast";1483
 "Poland";"Bogatynia";"Stadion Granicy Bogatynia";"Granica";1476
 "Poland";"Poznan";"Stadion Posnanii";"Posnania";1458
-"Poland";"Lublin";"Stadion Lekkoatletyczny w Lublinie";"-";1370
+"Poland";"Lublin";"Stadion Lekkoatletyczny w Lublinie";NA;1370
 "Poland";"Czarnków";"Stadion OSiR Czarnków";"Notec";1360
 "Poland";"Czeladz";"Stadion Józefa Pawelczyka";"CKS";1300
 "Poland";"Koszalin";"Stadion Stanislawa Figasa";"Gwardia";1300
@@ -1683,15 +1683,15 @@
 "Poland";"Sulejówek";"Stadion Miejski w Sulejówku";"Victoria";1240
 "Poland";"Krakow";"Stadion Pradniczanki";"Pradniczanka";1224
 "Poland";"Poniatowa";"Stadion Stali Poniatowa";"Stal";1200
-"Poland";"Skwierzyna";"Stadion Miejski w Skwierzynie";"-";1200
-"Poland";"Katowice";"Stadion AWF Katowice";"-";1200
+"Poland";"Skwierzyna";"Stadion Miejski w Skwierzynie";NA;1200
+"Poland";"Katowice";"Stadion AWF Katowice";NA;1200
 "Poland";"Strawczyn";"Stadion Lechii Strawczyn";"Lechia";1150
 "Poland";"Warsaw";"Stadion Ursusa Warszawa";"Ursus";1120
-"Poland";"Rewal";"Stadion w Rewalu";"-";1100
-"Poland";"Lubin";"Stadion RCS Lubin";"-";1100
+"Poland";"Rewal";"Stadion w Rewalu";NA;1100
+"Poland";"Lubin";"Stadion RCS Lubin";NA;1100
 "Poland";"Paslek";"Stadion Polonii Paslek";"Polonia";1096
 "Poland";"Zielona Gora";"Stadion Lechii Zielona Góra (Dolek)";"Lechia Zielona Góra";1084
-"Poland";"Pruszków";"Stadion WSKFiT";"-";1056
+"Poland";"Pruszków";"Stadion WSKFiT";NA;1056
 "Poland";"Nowy Tomysl";"Stadion Miejski w Nowym Tomyslu";"Polonia, TS05";1030
 "Poland";"Gliwice";"Stadion Carbo";"Carbo";1025
 "Poland";"Opalenica";"Stadion Promienia Opalenica";"Promien";1015
@@ -1709,7 +1709,7 @@
 "Poland";"Lwówek";"Stadion Pogoni Lwówek";"Pogon";1000
 "Poland";"Zambrow";"Stadion Olimpii Zambrów";"Olimpia";999
 "Poland";"Swidnica";"Stadion Miejski w Swidnicy";"Polonia-Stal";999
-"Poland";"Opole";"Stadion Lekkoatletyczny w Opolu";"-";998
+"Poland";"Opole";"Stadion Lekkoatletyczny w Opolu";NA;998
 "Poland";"Sanok";"Stadion Wierchy";"Stal";989
 "Poland";"Libiaz";"Stadion Górnika Libiaz";"Górnik";977
 "Poland";"Pniewy";"Stadion Sokola Pniewy";"Sokól";960
@@ -1730,11 +1730,11 @@
 "Poland";"Uniejów";"Kompleks im. Wlodzimierza Smolarka";"MGLKS Uniejów";800
 "Poland";"Myszków";"Stadion MOSiR w Myszkowie";"MKS Myszków";780
 "Poland";"Annopol";"Stadion Wisly Annopol";"Wisla";736
-"Poland";"Czosnów";"Stadion w Czosnowie";"-";732
+"Poland";"Czosnów";"Stadion w Czosnowie";NA;732
 "Poland";"Bialobrzegi";"Stadion Pilicy Bialobrzegi";"Pilica";715
 "Poland";"Opole Lubelski";"Stadion Opolanina";"Opolanin";713
 "Poland";"Pionki";"Stadion Prochu Pionki";"Proch";704
-"Poland";"Pilzno";"Stadion Rzemieslnika Pilzno";"-";700
+"Poland";"Pilzno";"Stadion Rzemieslnika Pilzno";NA;700
 "Poland";"Barcin";"Stadion Lekkoatletyczny w Barcinie";"Dab";672
 "Poland";"Bielsko-Biala";"Stadion BBOSiR Mlynska";"Podbeskidzie, BKS Stal";660
 "Poland";"Szczebrzeszyn";"Stadion Roztocza Szczebrzeszyn";"Roztocze";660
@@ -1785,9 +1785,9 @@
 "Portugal";"Funchal";"Estádio da Madeira";"Nacional Madeira";5132
 "Portugal";"Seixal";"Caixa Futebol Campus";"Benfica";2708
 "Portugal";"Lisbon";"Estádio Pina Manique";"Casa Pia";2574
-"Portugal";"Lisbon";"Estádio Nacional do Jamor";"-";37593
+"Portugal";"Lisbon";"Estádio Nacional do Jamor";NA;37593
 "Portugal";"Aveiro";"Estádio Municipal de Aveiro";"Beira Mar";30970
-"Portugal";"Faro/Loulé";"Estádio Algarve";"-";30305
+"Portugal";"Faro/Loulé";"Estádio Algarve";NA;30305
 "Portugal";"Leiria";"Estádio Dr. Magalhaes Pessoa";"Leiria";23850
 "Portugal";"Setubal";"Estádio do Bonfim";"Vitória";18728
 "Portugal";"Figueira da Foz";"Estádio Bento Pessoa";"Naval";10000
@@ -1831,13 +1831,13 @@
 "Romania";"Oradea";"Stadionul Iuliu Bodola";"Bihor";11000
 "Romania";"Moreni";"Stadionul Flacara";"Flacara";10000
 "Romania";"Bistrita";"Stadionul Gloria";"Gloria Bistrita";8100
-"Romania";"Urziceni";"Stadionul Tineretului";"-";8000
-"Romania";"Re<U+0219>i<U+021B>a";"Stadionul Mircea Chivu";"-";6100
+"Romania";"Urziceni";"Stadionul Tineretului";NA;8000
+"Romania";"Re<U+0219>i<U+021B>a";"Stadionul Mircea Chivu";NA;6100
 "Romania";"Aiud";"Stadionul Metalul";"Metalul, Olimpia";4000
 "Romania";"Navodari";"Stadionul Flacara";"Sageata";4000
 "Romania";"Reghin";"Stadionul Avântul";"Avântul Reghin";3000
 "Romania";"Târgu Mures";"Stadionul Gaz Metan";"Gaz Metan Târgu Mures";2000
-"Russia";"Moscow";"Luzhniki";"-";80788
+"Russia";"Moscow";"Luzhniki";NA;80788
 "Russia";"Petersburg";"Stadion Sankt Petersburg";"Zenit";62315
 "Russia";"Sochi";"Fisht Olympic Stadium";"PFC Sochi";47659
 "Russia";"Moscow";"Otkritie Arena";"Spartak";45360
@@ -1859,7 +1859,7 @@
 "Russia";"Samara";"Metallurg Stadion";"Krylia Sovietov";33001
 "Russia";"Krasnodar";"Kuban Stadion";"Kuban";31654
 "Russia";"Kaspiysk";"Anji Arena";"Anji";27000
-"Russia";"Kazan";"Centralnyj Stadion";"-";26920
+"Russia";"Kazan";"Centralnyj Stadion";NA;26920
 "Russia";"Krasnoyarsk";"Tsentralnyi Stadion";"FK Enisey";25000
 "Russia";"Petersburg";"Petrovsky Stadion";"Zenit";21838
 "Russia";"Perm";"Zvezda Stadion";"Amkar";20000
@@ -1871,7 +1871,7 @@
 "Russia";"Vladivostok";"Dinamo Stadion";"Luch-Energiya";10200
 "Russia";"Moscow";"Malaja Sportivnaja Arena Lokomotiv";"Lokomotiv";10000
 "Russia";"Petersburg";"Malaya Arena, Petrovsky";"Zenit";3018
-"San Marino";"Serravalle";"San Marino Stadium";"-";4877
+"San Marino";"Serravalle";"San Marino Stadium";NA;4877
 "Scotland";"Glasgow";"Hampden Park";"Queens Park";51866
 "Scotland";"Glasgow";"Celtic Park";"Celtic";60832
 "Scotland";"Glasgow";"Ibrox Stadium";"Rangers";50817
@@ -1885,7 +1885,7 @@
 "Scotland";"Paisley";"SMISA Stadium";"St. Mirren";8023
 "Scotland";"Dingwall";"Global Energy Stadium";"Ross County";6310
 "Scotland";"Hamilton";"New Douglas Park";"Academical";6018
-"Scotland";"Edinburgh";"BT Murrayfield";"-";67144
+"Scotland";"Edinburgh";"BT Murrayfield";NA;67144
 "Scotland";"Edinburgh";"Meadowbank";"Edinburgh City";16500
 "Scotland";"Dundee";"Tannadice Park";"Dundee United";14209
 "Scotland";"Dundee";"Kilmac Stadium";"Dundee FC";12006
@@ -1904,7 +1904,7 @@
 "Scotland";"Dumbarton";"The YOUR Radio 103FM Stadium";"Dumbarton FC";2025
 "Scotland";"Glasgow";"Petershill Park";"Petershill, Rossvale";2000
 "Scotland";"Ayr";"Dam Park";"Whitletts Victoria";1478
-"Scotland";"Glasgow";"Cathkin Park";"-";500
+"Scotland";"Glasgow";"Cathkin Park";NA;500
 "Serbia";"Belgrade";"Stadion Rajko Mitic";"Crvena Zvezda";55538
 "Serbia";"Belgrade";"Stadion FK Partizan";"Partizan";32710
 "Serbia";"Belgrade";"Omladinski Stadion";"OFK Beograd";20000
@@ -1995,7 +1995,7 @@
 "Spain";"Valladolid";"Estadio José Zorrilla";"Real Valladolid";26512
 "Spain";"Santa Cruz de Tenerife";"Estadio de Tenerife";"Tenerife";22948
 "Spain";"Almería";"Estadio Mediterráneo";"UD Almeria";15200
-"Spain";"Cartagena";"Estadio Cartagonova";"-";15105
+"Spain";"Cartagena";"Estadio Cartagonova";NA;15105
 "Spain";"Burgos";"Estadio Municipal de El Plantío";"Burgos CF";12642
 "Spain";"Leganés";"Estadio de Butarque";"CD Leganés";12450
 "Spain";"Girona";"Estadi Municipal de Montilivi";"Girona FC";11200
@@ -2007,8 +2007,8 @@
 "Spain";"Alcorcón";"Estadio Santo Domingo";"AD Alcorcón";5100
 "Spain";"Ibiza";"Estadi Municipal de Can Misses";"UD Ibiza";4500
 "Spain";"Zubieta";"Estadio Zubieta XXI";"Real Sociedad II";2500
-"Spain";"Sevilla";"Estadio Olímpico de Sevilla";"-";57619
-"Spain";"Barcelona";"Estadi Olímpic Lluís Companys";"-";55926
+"Spain";"Sevilla";"Estadio Olímpico de Sevilla";NA;57619
+"Spain";"Barcelona";"Estadi Olímpic Lluís Companys";NA;55926
 "Spain";"Murcia";"Estadio Nueva Condomina";"Real Murcia";33045
 "Spain";"La Coruna";"Abanca-Riazor";"Deportivo";32660
 "Spain";"Alicante";"Estadio José Rico Pérez";"Hércules CF";29584
@@ -2022,7 +2022,7 @@
 "Spain";"Logrono";"Estadio  Nuevo las Gaunas";"CD Logrones";16000
 "Spain";"Castellón de la Plana";"Nou Estadi Castalia";"UD Castellón de la Plana";16000
 "Spain";"Badajoz";"Estadio Nuevo Vivero";"CD Badajoz";15598
-"Spain";"Mérida";"Estadio Romano";"-";14600
+"Spain";"Mérida";"Estadio Romano";NA;14600
 "Spain";"Murcia";"Estadio La Condomina";"UCAM Murcia";13500
 "Spain";"Lleida";"Camp d'Esports";"UE Lleida";13031
 "Spain";"Tarragona";"Nou Estadi";"CG Tarragona";12000
@@ -2035,7 +2035,7 @@
 "Spain";"San Fernando";"Estadio Iberoamericano 2010";"CD San Fernando";8000
 "Spain";"Barcelona";"Nou Sardenya";"CE Europa";8000
 "Spain";"Barakaldo";"Estadio de Lasesarre";"Barakaldo CF";7960
-"Spain";"Cuenca";"Complejo Deportivo la Fuensanta";"-";6700
+"Spain";"Cuenca";"Complejo Deportivo la Fuensanta";NA;6700
 "Spain";"Barcelona";"Camp Municipal Narcís Sala";"Sant Andreu";6563
 "Spain";"Irun";"Stadium Gal";"RUC Irun";6344
 "Spain";"L'Hospitalet de Llobregat";"Estadi Municipal de Futbol de L'Hospitalet";"CE L'Hospitalet";6294
@@ -2046,7 +2046,7 @@
 "Spain";"Estepona";"Estadio Francisco Muñoz Pérez";"Unión Estepona";3800
 "Spain";"Lepe";"Estadio Ciudad de Lepe";"San Roque";3512
 "Spain";"Majadahonda";"Miniestadio Cerro del Espino";"Atlético B";3376
-"Spain";"Santa Cruz de Tenerife";"CIAT";"-";3071
+"Spain";"Santa Cruz de Tenerife";"CIAT";NA;3071
 "Spain";"Barcelona";"Nou Camp Municipal UE Cornellá";"UE Cornellà";1500
 "Sweden";"Solna";"Friends Arena";"AIK";54329
 "Sweden";"Stockholm";"Tele2 Arena";"Hammarby, Djurgårdens";33000
@@ -2059,17 +2059,17 @@
 "Sweden";"Sundsvall";"Norrporten Arena";"GIF Sundsvall";8500
 "Sweden";"Göteborg";"Bravida Arena";"BK Häcken";6500
 "Sweden";"Göteborg";"Ullevi Stadion";"IFK, GAIS";43200
-"Sweden";"Malmö";"Malmö Stadion";"-";26930
-"Sweden";"Stockholm";"Söderstadion";"-";16185
+"Sweden";"Malmö";"Malmö Stadion";NA;26930
+"Sweden";"Stockholm";"Söderstadion";NA;16185
 "Sweden";"Halmstad";"Örjans Vall";"Halmstads BK";15500
-"Sweden";"Stockholm";"Stockholms Stadion";"-";14417
-"Sweden";"Vaxjo";"Varendsvallen";"-";13062
+"Sweden";"Stockholm";"Stockholms Stadion";NA;14417
+"Sweden";"Vaxjo";"Varendsvallen";NA;13062
 "Sweden";"Örebro";"Behrn Arena";"Örebro SK";13000
 "Sweden";"Landskrona";"Landskrona IP";"Landskrona BoIS";12500
 "Sweden";"Vaxjo";"Myresjöhus Arena";"Östers";12200
-"Sweden";"Västerås";"Arosvallen";"-";10000
+"Sweden";"Västerås";"Arosvallen";NA;10000
 "Sweden";"Lund";"Klostergårdens";"Lunds BK, Lunds BoiS";8560
-"Sweden";"Kalmar";"Fredriksskans IP";"-";8500
+"Sweden";"Kalmar";"Fredriksskans IP";NA;8500
 "Sweden";"Åtvidaberg";"Kopparvallen";"Åtvidabergs FF";8000
 "Sweden";"Eskilstuna";"Tunavallen";"IFK, City, United";7800
 "Sweden";"Västerås";"Swedbank Park";"Västerås SK";7044
@@ -2118,7 +2118,7 @@
 "Turkey";"Izmir";"Alsancak Mustafa Denizli Stadyumu";"Altay";15000
 "Turkey";"Istanbul";"Recep Tayyip Erdogan Stadyumu";"Kasimpasa Spor";14234
 "Turkey";"Alanya";"Bahçesehir Okullari Stadyumu";"Aytemiz Alanyaspor";10842
-"Turkey";"Izmir";"Izmir Atatürk Stadyumu";"-";51295
+"Turkey";"Izmir";"Izmir Atatürk Stadyumu";NA;51295
 "Turkey";"Bursa";"Bitçi Timsah Stadi";"Bursaspor";43331
 "Turkey";"Eskisehir";"Yeni Eskisehir Stadyumu";"Eskisehirspor";34930
 "Turkey";"Izmit";"Kocaeli Stadyumu";"Kocaelispor";34712
@@ -2127,25 +2127,25 @@
 "Turkey";"Sakarya";"Yeni Sakarya Stadyumu";"Sakaryaspor";28154
 "Turkey";"Bursa";"Atatürk Stadyumu";"Bursaspor";25661
 "Turkey";"Mersin";"Mersin Arena";"Idman Yurdu";25534
-"Turkey";"Trabzon";"Hüseyin Avni Aker Stadyumu";"-";24169
-"Turkey";"Konya";"Atatürk Stadyumu";"-";22559
+"Turkey";"Trabzon";"Hüseyin Avni Aker Stadyumu";NA;24169
+"Turkey";"Konya";"Atatürk Stadyumu";NA;22559
 "Turkey";"Ankara";"19 Mayis Stadyumu";"Gençlerbirligi, Ankaragücü, Ankarasp";20070
 "Turkey";"Ordu";"Yeni Ordu Stadyumu";"Orduspor 1967, 52 Orduspor FK";20000
 "Turkey";"Sincan";"Osmanli Stadyumu";"Osmanlispor";18029
-"Turkey";"Gaziantep";"Kamil Ocak Stadyumu";"-";16981
+"Turkey";"Gaziantep";"Kamil Ocak Stadyumu";NA;16981
 "Turkey";"Manisa";"19 Mayis Stadyumu";"Manisaspor, Akhisar Belediyespor";16597
 "Turkey";"Adana";"Adana 5 Ocak Stadyumu";"Adanaspor";16123
 "Turkey";"Istanbul";"Zeytinburnu Stadyumu";"Zeytinburnuspor";16000
 "Turkey";"Batman";"Batman Stadyumu";"Petrolspor";15000
 "Turkey";"Çorum";"Çorum Sehir Stadyumu";"Çorum FK, Çorumspor";15000
-"Turkey";"Tire";"Tire Atatürk Stadyumu";"-";13500
+"Turkey";"Tire";"Tire Atatürk Stadyumu";NA;13500
 "Turkey";"Akhisar";"Spor Toto Akhisar Stadyumu";"Akhisar Belediyespor";12139
 "Turkey";"Ordu";"19 Eylül Stadyumu";"Orduspor";11024
 "Turkey";"Izmir";"Aziz Kocaoglu Stadyumu";"Göztepe, Altinordu, Bornova Belediyespor";9138
 "Turkey";"Kusadasi";"Özer Türk Stadyumu";"Kusadasispor";8000
 "Turkey";"Istanbul";"Mimar Yahya Bas Stadyumu";"Güngörenspor";7589
 "Turkey";"Istanbul";"Kartal Stadyumu";"Kartalspor";7195
-"Turkey";"Antalya";"Akdeniz Üniversitesi Stadyumu";"-";7083
+"Turkey";"Antalya";"Akdeniz Üniversitesi Stadyumu";NA;7083
 "Turkey";"Istanbul";"Yusuf Ziya Önis Stadyumu";"Sariyer";5000
 "Turkey";"Istanbul";"Hasan Polat Stadyumu";"Maltepespor";5000
 "Turkey";"Istanbul";"Necmi Kadioglu Stadyumu";"Istanbulspor";4488
@@ -2179,10 +2179,10 @@
 "Ukraine";"Khmelnytskyi";"Sportiwnyj Kompleks Podilya";"FK Podilya";10000
 "Ukraine";"Kiev";"Obolon Arena";"Obolon";5103
 "Ukraine";"Dobromyl";"Lafort Arena";"FK Lviv";3220
-"Ukraine";"Kiev";"Stadion NTK";"-";1678
+"Ukraine";"Kiev";"Stadion NTK";NA;1678
 "Wales";"Cardiff";"Cardiff City Stadium";"Cardiff City";32898
 "Wales";"Swansea";"Swansea.com Stadium";"Swansea City";21088
-"Wales";"Cardiff";"Principality Stadium";"-";74500
+"Wales";"Cardiff";"Principality Stadium";NA;74500
 "Wales";"Wrexham";"Racecourse Ground";"Wrexham AFC";15850
 "Wales";"Llanelli";"Parc y Scarlets";"Scarlets, Llanelli RFC";14870
 "Wales";"Aberystwyth";"Park Avenue";"Aberystwyth Town";5000

@@ -29,20 +29,30 @@ colnames(df_i) <- tolower(colnames(df_i))
 ## create escape unicode
 ## ------------------------------------------
 
-df_i <- as.data.frame(apply(df_i, 2, stringi::stri_escape_unicode))
+stadium_i <- as.data.frame(apply(df_i, 2, stringi::stri_escape_unicode))
 
 ## ------------------------------------------
 ## special case: save to package
 ## ------------------------------------------
 
 # export for package
-stadium <- df_i
+stadium <- stadium_i
 colnames(stadium) <- c("country","name","city","club","capacity")
 stadium <- subset(stadium, 
     select = c(country, city, name, club, capacity))
 save(stadium, file = "./_project/02_stadium/202205_version01/data/stadium.rda")
-# save(stadium, ascii = TRUE, compress='xz', file = "./_project/02_stadium/202205_version01/data/stadium.rda")
 rm(stadium)
+
+## ------------------------------------------
+## clubs
+## ------------------------------------------
+
+df_i <- df_i |> 
+    dplyr::mutate(clubs = dplyr::case_when(
+        clubs == "-" ~ NA_character_,
+        TRUE ~ clubs
+    )) |> 
+    as.data.frame()
 
 ## ------------------------------------------
 ## capacity
