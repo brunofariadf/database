@@ -12,3 +12,7 @@
 url_i <- "https://raw.githubusercontent.com/brunofariadf/database/main/csv/stadium.csv"
 data_i <- data.table::fread(url_i)
 head(data_i, 2)
+
+#      country      city            name              club capacity
+# 1: Australia Melbourne  Marvel Stadium Melbourne Victory    56347
+# 2: Australia  Brisbane Suncorp Stadium     Brisbane Roar    53223
