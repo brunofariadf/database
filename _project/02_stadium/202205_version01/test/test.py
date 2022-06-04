@@ -1,8 +1,8 @@
 ## ------------------------------------------
 ##                          Date: 2022-06-01
 ## ------------------------------------------
-## Project: 
-## Author: 
+## Project: stadium
+## Author: Bruno Faria
 ## 
 ## GUI: vscode (1.67.2)
 ## Version Python: 3.9.6
