@@ -9,7 +9,7 @@ This is a repository of dataset collected via web scraping. Below you can check 
 
 <div align="center">
 
-| id | dataset |  year  | dimension |                                        csv                                        |                                 sql                                  |
+| id | dataset |  date  | dimension |                                        csv                                        |                                 sql                                  |
 |:--:|:-------:|:------:|:---------:|:---------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
 | 01 | agency  | 202205 |  5157x6   | [x](https://raw.githubusercontent.com/brunofariadf/database/main/csv/agency.csv)  | [x](https://github.com/brunofariadf/database/raw/main/sql/agency.db) |
 | 02 | stadium | 202205 |  2188x5   | [x](https://raw.githubusercontent.com/brunofariadf/database/main/csv/stadium.csv) |                                                                      |
